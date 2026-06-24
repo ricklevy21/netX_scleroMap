@@ -1,4 +1,1187 @@
 {
-  "updated_at": "2026-06-24T20:53:37.238Z",
-  "assets": []
+  "updated_at": "2026-06-24T21:09:52.141Z",
+  "assets": [
+    {
+      "id": 93778,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_002.JPG",
+      "lat": 38.84903667,
+      "lng": -108.37172
+    },
+    {
+      "id": 93779,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_003.JPG",
+      "lat": 38.84906,
+      "lng": -108.3717083
+    },
+    {
+      "id": 93780,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_004.JPG",
+      "lat": 38.84904667,
+      "lng": -108.3716983
+    },
+    {
+      "id": 93781,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_005.JPG",
+      "lat": 38.84882333,
+      "lng": -108.3717283
+    },
+    {
+      "id": 93782,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_006.JPG",
+      "lat": 38.848715,
+      "lng": -108.3722417
+    },
+    {
+      "id": 93783,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_007.JPG",
+      "lat": 38.84877,
+      "lng": -108.3719083
+    },
+    {
+      "id": 93784,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_008.JPG",
+      "lat": 38.848915,
+      "lng": -108.3718817
+    },
+    {
+      "id": 93785,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_009.JPG",
+      "lat": 38.848915,
+      "lng": -108.3718833
+    },
+    {
+      "id": 93786,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_010.JPG",
+      "lat": 38.84891167,
+      "lng": -108.3718883
+    },
+    {
+      "id": 93787,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_011.JPG",
+      "lat": 38.84914833,
+      "lng": -108.3717683
+    },
+    {
+      "id": 93788,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_012.JPG",
+      "lat": 38.84915,
+      "lng": -108.3717633
+    },
+    {
+      "id": 93789,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_013.JPG",
+      "lat": 38.84916667,
+      "lng": -108.3717483
+    },
+    {
+      "id": 93790,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_014.JPG",
+      "lat": 38.84917667,
+      "lng": -108.37171
+    },
+    {
+      "id": 93791,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_015.JPG",
+      "lat": 38.84898333,
+      "lng": -108.3718317
+    },
+    {
+      "id": 93792,
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_016.JPG",
+      "lat": 38.84897833,
+      "lng": -108.3718317
+    },
+    {
+      "id": 93793,
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_001.JPG",
+      "lat": 38.67013667,
+      "lng": -108.328355
+    },
+    {
+      "id": 93794,
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_002.JPG",
+      "lat": 38.67014333,
+      "lng": -108.3283567
+    },
+    {
+      "id": 93795,
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_003.JPG",
+      "lat": 38.67014167,
+      "lng": -108.3283567
+    },
+    {
+      "id": 93796,
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_004.JPG",
+      "lat": 38.670135,
+      "lng": -108.3286733
+    },
+    {
+      "id": 93797,
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_005.JPG",
+      "lat": 38.670125,
+      "lng": -108.3286867
+    },
+    {
+      "id": 93798,
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_001.JPG",
+      "lat": 38.72912333,
+      "lng": -108.1770367
+    },
+    {
+      "id": 93799,
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_002.JPG",
+      "lat": 38.72909833,
+      "lng": -108.1770317
+    },
+    {
+      "id": 93800,
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_003.JPG",
+      "lat": 38.72896833,
+      "lng": -108.1771917
+    },
+    {
+      "id": 93801,
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_004.JPG",
+      "lat": 38.72905167,
+      "lng": -108.1771417
+    },
+    {
+      "id": 93802,
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_005.JPG",
+      "lat": 38.72899667,
+      "lng": -108.1772217
+    },
+    {
+      "id": 93803,
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_006.JPG",
+      "lat": 38.729015,
+      "lng": -108.1772417
+    },
+    {
+      "id": 93804,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0338.JPG",
+      "lat": 39.344195,
+      "lng": -108.3104333
+    },
+    {
+      "id": 93805,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0339.JPG",
+      "lat": 39.344155,
+      "lng": -108.3104
+    },
+    {
+      "id": 93806,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0340.JPG",
+      "lat": 39.34415667,
+      "lng": -108.3104067
+    },
+    {
+      "id": 93807,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0341.JPG",
+      "lat": 39.34416,
+      "lng": -108.3104083
+    },
+    {
+      "id": 93808,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0342.JPG",
+      "lat": 39.34416167,
+      "lng": -108.3104333
+    },
+    {
+      "id": 93809,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0343.JPG",
+      "lat": 39.34415667,
+      "lng": -108.31043
+    },
+    {
+      "id": 93810,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0344.JPG",
+      "lat": 39.34415333,
+      "lng": -108.3104483
+    },
+    {
+      "id": 93811,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0345.JPG",
+      "lat": 39.34415333,
+      "lng": -108.31045
+    },
+    {
+      "id": 93812,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0346.JPG",
+      "lat": 39.34416167,
+      "lng": -108.310435
+    },
+    {
+      "id": 93813,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0347.JPG",
+      "lat": 39.344155,
+      "lng": -108.3104033
+    },
+    {
+      "id": 93814,
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0348.JPG",
+      "lat": 39.34416167,
+      "lng": -108.3103983
+    },
+    {
+      "id": 93815,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0349.JPG",
+      "lat": 39.36060167,
+      "lng": -108.313465
+    },
+    {
+      "id": 93816,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0350.JPG",
+      "lat": 39.36056167,
+      "lng": -108.3134683
+    },
+    {
+      "id": 93817,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0351.JPG",
+      "lat": 39.36056667,
+      "lng": -108.313475
+    },
+    {
+      "id": 93818,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0352.JPG",
+      "lat": 39.36055667,
+      "lng": -108.313475
+    },
+    {
+      "id": 93819,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0353.JPG",
+      "lat": 39.36055667,
+      "lng": -108.3134767
+    },
+    {
+      "id": 93820,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0354.JPG",
+      "lat": 39.36055833,
+      "lng": -108.313475
+    },
+    {
+      "id": 93821,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0355.JPG",
+      "lat": 39.36055167,
+      "lng": -108.3134717
+    },
+    {
+      "id": 93822,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0356.JPG",
+      "lat": 39.36055,
+      "lng": -108.3134717
+    },
+    {
+      "id": 93823,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0357.JPG",
+      "lat": 39.36055667,
+      "lng": -108.3134733
+    },
+    {
+      "id": 93824,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0358.JPG",
+      "lat": 39.36056833,
+      "lng": -108.31349
+    },
+    {
+      "id": 93825,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0359.JPG",
+      "lat": 39.36058167,
+      "lng": -108.3135017
+    },
+    {
+      "id": 93826,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0360.JPG",
+      "lat": 39.36058,
+      "lng": -108.3135017
+    },
+    {
+      "id": 93827,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0361.JPG",
+      "lat": 39.36057333,
+      "lng": -108.3134917
+    },
+    {
+      "id": 93828,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0362.JPG",
+      "lat": 39.36058,
+      "lng": -108.3134783
+    },
+    {
+      "id": 93829,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0363.JPG",
+      "lat": 39.360305,
+      "lng": -108.313345
+    },
+    {
+      "id": 93830,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0364.JPG",
+      "lat": 39.36030167,
+      "lng": -108.3133417
+    },
+    {
+      "id": 93831,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0365.JPG",
+      "lat": 39.36031,
+      "lng": -108.3133417
+    },
+    {
+      "id": 93832,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0366.JPG",
+      "lat": 39.36031333,
+      "lng": -108.3133517
+    },
+    {
+      "id": 93833,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0367.JPG",
+      "lat": 39.35994,
+      "lng": -108.3126383
+    },
+    {
+      "id": 93834,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0368.JPG",
+      "lat": 39.35994,
+      "lng": -108.31264
+    },
+    {
+      "id": 93835,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0369.JPG",
+      "lat": 39.35995333,
+      "lng": -108.31264
+    },
+    {
+      "id": 93836,
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0370.JPG",
+      "lat": 39.35998167,
+      "lng": -108.3126233
+    },
+    {
+      "id": 93837,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_001.JPG",
+      "lat": 39.30712667,
+      "lng": -108.2749367
+    },
+    {
+      "id": 93838,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_002.JPG",
+      "lat": 39.30713,
+      "lng": -108.27495
+    },
+    {
+      "id": 93839,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_003.JPG",
+      "lat": 39.30712833,
+      "lng": -108.2749483
+    },
+    {
+      "id": 93840,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_004.JPG",
+      "lat": 39.30712167,
+      "lng": -108.2749217
+    },
+    {
+      "id": 93841,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_005.JPG",
+      "lat": 39.30702333,
+      "lng": -108.275065
+    },
+    {
+      "id": 93842,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_006.JPG",
+      "lat": 39.30703667,
+      "lng": -108.2750617
+    },
+    {
+      "id": 93843,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_007.JPG",
+      "lat": 39.307035,
+      "lng": -108.2751233
+    },
+    {
+      "id": 93844,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_008.JPG",
+      "lat": 39.30695167,
+      "lng": -108.2752517
+    },
+    {
+      "id": 93845,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_010.JPG",
+      "lat": 39.30685833,
+      "lng": -108.27534
+    },
+    {
+      "id": 93846,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_011.JPG",
+      "lat": 39.30709333,
+      "lng": -108.2750217
+    },
+    {
+      "id": 93847,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_012.JPG",
+      "lat": 39.30702833,
+      "lng": -108.275195
+    },
+    {
+      "id": 93848,
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_013.JPG",
+      "lat": 39.30671333,
+      "lng": -108.2751367
+    },
+    {
+      "id": 93865,
+      "name": "20180502_Sclerocactus-glaucus_Bridgeport_20180502_ScGl2018_Bridgeport_P5020022.JPG",
+      "lat": 38.84618333,
+      "lng": -108.3713483
+    },
+    {
+      "id": 93866,
+      "name": "20180502_Sclerocactus-glaucus_Bridgeport_20180502_ScGl2018_Bridgeport_P5020023.JPG",
+      "lat": 38.848475,
+      "lng": -108.3717833
+    },
+    {
+      "id": 93870,
+      "name": "20180502_Sclerocactus-glaucus_EscalantePicnic_20180502_ScGl2018_EscalantePicnic_P5020018.JPG",
+      "lat": 38.670035,
+      "lng": -108.3283367
+    },
+    {
+      "id": 93871,
+      "name": "20180502_Sclerocactus-glaucus_EscalantePicnic_20180502_ScGl2018_EscalantePicnic_P5020019.JPG",
+      "lat": 38.670035,
+      "lng": -108.328335
+    },
+    {
+      "id": 93875,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030027.JPG",
+      "lat": 39.30702667,
+      "lng": -108.2755683
+    },
+    {
+      "id": 93876,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030028.JPG",
+      "lat": 39.30702667,
+      "lng": -108.2755683
+    },
+    {
+      "id": 93877,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030029.JPG",
+      "lat": 39.30696167,
+      "lng": -108.27554
+    },
+    {
+      "id": 93878,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030030.JPG",
+      "lat": 39.30695333,
+      "lng": -108.2755333
+    },
+    {
+      "id": 93879,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030031.JPG",
+      "lat": 39.306745,
+      "lng": -108.2754767
+    },
+    {
+      "id": 93880,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030032.JPG",
+      "lat": 39.30674,
+      "lng": -108.2754783
+    },
+    {
+      "id": 93881,
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030033.JPG",
+      "lat": 39.30674,
+      "lng": -108.2754783
+    },
+    {
+      "id": 93882,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040069.JPG",
+      "lat": 39.30694167,
+      "lng": -108.2753967
+    },
+    {
+      "id": 93883,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040070.JPG",
+      "lat": 39.30696167,
+      "lng": -108.275685
+    },
+    {
+      "id": 93884,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040071.JPG",
+      "lat": 39.30696167,
+      "lng": -108.275685
+    },
+    {
+      "id": 93885,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040072.JPG",
+      "lat": 39.30695167,
+      "lng": -108.275625
+    },
+    {
+      "id": 93886,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040073.JPG",
+      "lat": 39.30695167,
+      "lng": -108.275625
+    },
+    {
+      "id": 93887,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040074.JPG",
+      "lat": 39.306785,
+      "lng": -108.2755133
+    },
+    {
+      "id": 93888,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040075.JPG",
+      "lat": 39.30701833,
+      "lng": -108.2755233
+    },
+    {
+      "id": 93889,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040076.JPG",
+      "lat": 39.307055,
+      "lng": -108.2759017
+    },
+    {
+      "id": 93890,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040077.JPG",
+      "lat": 39.30668833,
+      "lng": -108.2752933
+    },
+    {
+      "id": 93891,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040078.JPG",
+      "lat": 39.30668833,
+      "lng": -108.2752933
+    },
+    {
+      "id": 93892,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040079.JPG",
+      "lat": 39.30675,
+      "lng": -108.275415
+    },
+    {
+      "id": 93893,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040080.JPG",
+      "lat": 39.30676167,
+      "lng": -108.2754
+    },
+    {
+      "id": 93894,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040081.JPG",
+      "lat": 39.30671667,
+      "lng": -108.2754233
+    },
+    {
+      "id": 93895,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040082.JPG",
+      "lat": 39.30671667,
+      "lng": -108.2754233
+    },
+    {
+      "id": 93896,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040083.JPG",
+      "lat": 39.30713167,
+      "lng": -108.276725
+    },
+    {
+      "id": 93897,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040084.JPG",
+      "lat": 39.30706333,
+      "lng": -108.2767083
+    },
+    {
+      "id": 93898,
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040085.JPG",
+      "lat": 39.30702833,
+      "lng": -108.2767033
+    },
+    {
+      "id": 93900,
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040035.JPG",
+      "lat": 39.34333667,
+      "lng": -108.3099967
+    },
+    {
+      "id": 93901,
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040036.JPG",
+      "lat": 39.34425,
+      "lng": -108.3102
+    },
+    {
+      "id": 93902,
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040037.JPG",
+      "lat": 39.34425167,
+      "lng": -108.31019
+    },
+    {
+      "id": 93903,
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040038.JPG",
+      "lat": 39.34425667,
+      "lng": -108.310175
+    },
+    {
+      "id": 93904,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040039.JPG",
+      "lat": 39.36061833,
+      "lng": -108.313715
+    },
+    {
+      "id": 93905,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040040.JPG",
+      "lat": 39.36061833,
+      "lng": -108.313715
+    },
+    {
+      "id": 93906,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040041.JPG",
+      "lat": 39.36060333,
+      "lng": -108.3136483
+    },
+    {
+      "id": 93907,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040042.JPG",
+      "lat": 39.36060333,
+      "lng": -108.3136483
+    },
+    {
+      "id": 93908,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040043.JPG",
+      "lat": 39.36059167,
+      "lng": -108.3135817
+    },
+    {
+      "id": 93909,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040044.JPG",
+      "lat": 39.36059167,
+      "lng": -108.3135817
+    },
+    {
+      "id": 93910,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040045.JPG",
+      "lat": 39.36051167,
+      "lng": -108.3136033
+    },
+    {
+      "id": 93911,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040046.JPG",
+      "lat": 39.36053333,
+      "lng": -108.3133267
+    },
+    {
+      "id": 93912,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040047.JPG",
+      "lat": 39.36053333,
+      "lng": -108.3133267
+    },
+    {
+      "id": 93913,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040048.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133233
+    },
+    {
+      "id": 93914,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040049.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133233
+    },
+    {
+      "id": 93915,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040050.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
+    },
+    {
+      "id": 93916,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040051.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
+    },
+    {
+      "id": 93917,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040052.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
+    },
+    {
+      "id": 93918,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040053.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
+    },
+    {
+      "id": 93919,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040054.JPG",
+      "lat": 39.360545,
+      "lng": -108.313345
+    },
+    {
+      "id": 93920,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040055.JPG",
+      "lat": 39.360545,
+      "lng": -108.3133483
+    },
+    {
+      "id": 93921,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040056.JPG",
+      "lat": 39.360545,
+      "lng": -108.3133483
+    },
+    {
+      "id": 93922,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040057.JPG",
+      "lat": 39.360545,
+      "lng": -108.31335
+    },
+    {
+      "id": 93923,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040058.JPG",
+      "lat": 39.360545,
+      "lng": -108.31335
+    },
+    {
+      "id": 93924,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040059.JPG",
+      "lat": 39.36046833,
+      "lng": -108.31307
+    },
+    {
+      "id": 93925,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040060.JPG",
+      "lat": 39.36046833,
+      "lng": -108.31307
+    },
+    {
+      "id": 93926,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040061.JPG",
+      "lat": 39.36049333,
+      "lng": -108.313565
+    },
+    {
+      "id": 93927,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040062.JPG",
+      "lat": 39.36049333,
+      "lng": -108.313565
+    },
+    {
+      "id": 93928,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040063.JPG",
+      "lat": 39.36051167,
+      "lng": -108.3135283
+    },
+    {
+      "id": 93929,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040064.JPG",
+      "lat": 39.36051167,
+      "lng": -108.3135283
+    },
+    {
+      "id": 93930,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040065.JPG",
+      "lat": 39.36051333,
+      "lng": -108.3135283
+    },
+    {
+      "id": 93931,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040066.JPG",
+      "lat": 39.36059167,
+      "lng": -108.3136267
+    },
+    {
+      "id": 93932,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040067.JPG",
+      "lat": 39.360655,
+      "lng": -108.3136833
+    },
+    {
+      "id": 93933,
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040068.JPG",
+      "lat": 39.36068833,
+      "lng": -108.3137067
+    },
+    {
+      "id": 93934,
+      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290001.JPG",
+      "lat": 39.196625,
+      "lng": -108.12975
+    },
+    {
+      "id": 93936,
+      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290003.JPG",
+      "lat": 39.19676167,
+      "lng": -108.129825
+    },
+    {
+      "id": 93937,
+      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290004.JPG",
+      "lat": 39.19677,
+      "lng": -108.12977
+    },
+    {
+      "id": 93947,
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020023.JPG",
+      "lat": 39.34122,
+      "lng": -108.311725
+    },
+    {
+      "id": 93949,
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020025.JPG",
+      "lat": 39.34446,
+      "lng": -108.31029
+    },
+    {
+      "id": 93950,
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020026.JPG",
+      "lat": 39.344495,
+      "lng": -108.31027
+    },
+    {
+      "id": 93951,
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020027.JPG",
+      "lat": 39.34439833,
+      "lng": -108.3103383
+    },
+    {
+      "id": 93956,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020032.JPG",
+      "lat": 39.36054,
+      "lng": -108.3136683
+    },
+    {
+      "id": 93957,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020033.JPG",
+      "lat": 39.36055833,
+      "lng": -108.3136833
+    },
+    {
+      "id": 93958,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020034.JPG",
+      "lat": 39.36062333,
+      "lng": -108.3137117
+    },
+    {
+      "id": 93959,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020035.JPG",
+      "lat": 39.36063167,
+      "lng": -108.313735
+    },
+    {
+      "id": 93960,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020036.JPG",
+      "lat": 39.36068667,
+      "lng": -108.3137467
+    },
+    {
+      "id": 93963,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020015.JPG",
+      "lat": 39.30677667,
+      "lng": -108.2754567
+    },
+    {
+      "id": 93964,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020016.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
+    },
+    {
+      "id": 93965,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020017.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
+    },
+    {
+      "id": 93966,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020018.JPG",
+      "lat": 39.30671833,
+      "lng": -108.275435
+    },
+    {
+      "id": 93967,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020019.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
+    },
+    {
+      "id": 93968,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020020.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
+    },
+    {
+      "id": 93969,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020021.JPG",
+      "lat": 39.30669333,
+      "lng": -108.2754217
+    },
+    {
+      "id": 93970,
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020022.JPG",
+      "lat": 39.30676,
+      "lng": -108.27545
+    },
+    {
+      "id": 93971,
+      "name": "20190429_Sclerocactusglaucus_P4290001.JPG",
+      "lat": 39.196625,
+      "lng": -108.12975
+    },
+    {
+      "id": 93973,
+      "name": "20190429_Sclerocactusglaucus_P4290003.JPG",
+      "lat": 39.19676167,
+      "lng": -108.129825
+    },
+    {
+      "id": 93974,
+      "name": "20190429_Sclerocactusglaucus_P4290004.JPG",
+      "lat": 39.19677,
+      "lng": -108.12977
+    },
+    {
+      "id": 93985,
+      "name": "20190429_Sclerocactusglaucus_P5020015.JPG",
+      "lat": 39.30677667,
+      "lng": -108.2754567
+    },
+    {
+      "id": 93986,
+      "name": "20190429_Sclerocactusglaucus_P5020016.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
+    },
+    {
+      "id": 93987,
+      "name": "20190429_Sclerocactusglaucus_P5020017.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
+    },
+    {
+      "id": 93988,
+      "name": "20190429_Sclerocactusglaucus_P5020018.JPG",
+      "lat": 39.30671833,
+      "lng": -108.275435
+    },
+    {
+      "id": 93989,
+      "name": "20190429_Sclerocactusglaucus_P5020019.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
+    },
+    {
+      "id": 93990,
+      "name": "20190429_Sclerocactusglaucus_P5020020.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
+    },
+    {
+      "id": 93991,
+      "name": "20190429_Sclerocactusglaucus_P5020021.JPG",
+      "lat": 39.30669333,
+      "lng": -108.2754217
+    },
+    {
+      "id": 93992,
+      "name": "20190429_Sclerocactusglaucus_P5020022.JPG",
+      "lat": 39.30676,
+      "lng": -108.27545
+    },
+    {
+      "id": 93993,
+      "name": "20190429_Sclerocactusglaucus_P5020023.JPG",
+      "lat": 39.34122,
+      "lng": -108.311725
+    },
+    {
+      "id": 93995,
+      "name": "20190429_Sclerocactusglaucus_P5020025.JPG",
+      "lat": 39.34446,
+      "lng": -108.31029
+    },
+    {
+      "id": 93996,
+      "name": "20190429_Sclerocactusglaucus_P5020026.JPG",
+      "lat": 39.344495,
+      "lng": -108.31027
+    },
+    {
+      "id": 93997,
+      "name": "20190429_Sclerocactusglaucus_P5020027.JPG",
+      "lat": 39.34439833,
+      "lng": -108.3103383
+    },
+    {
+      "id": 94002,
+      "name": "20190429_Sclerocactusglaucus_P5020032.JPG",
+      "lat": 39.36054,
+      "lng": -108.3136683
+    },
+    {
+      "id": 94003,
+      "name": "20190429_Sclerocactusglaucus_P5020033.JPG",
+      "lat": 39.36055833,
+      "lng": -108.3136833
+    },
+    {
+      "id": 94004,
+      "name": "20190429_Sclerocactusglaucus_P5020034.JPG",
+      "lat": 39.36062333,
+      "lng": -108.3137117
+    },
+    {
+      "id": 94005,
+      "name": "20190429_Sclerocactusglaucus_P5020035.JPG",
+      "lat": 39.36063167,
+      "lng": -108.313735
+    },
+    {
+      "id": 94006,
+      "name": "20190429_Sclerocactusglaucus_P5020036.JPG",
+      "lat": 39.36068667,
+      "lng": -108.3137467
+    },
+    {
+      "id": 94008,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_25.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
+    },
+    {
+      "id": 94009,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_26.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
+    },
+    {
+      "id": 94010,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_27.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
+    },
+    {
+      "id": 94011,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_28.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
+    },
+    {
+      "id": 94012,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_29.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
+    },
+    {
+      "id": 94013,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_30.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
+    },
+    {
+      "id": 94014,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_31.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
+    },
+    {
+      "id": 94015,
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_32.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
+    },
+    {
+      "id": 94016,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_33.jpg",
+      "lat": 38.66987797,
+      "lng": -108.328855
+    },
+    {
+      "id": 94017,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_34.jpg",
+      "lat": 38.66987797,
+      "lng": -108.328855
+    },
+    {
+      "id": 94018,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_35.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
+    },
+    {
+      "id": 94019,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_36.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
+    },
+    {
+      "id": 94020,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_37.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
+    },
+    {
+      "id": 94021,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_38.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
+    },
+    {
+      "id": 94022,
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_39.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
+    },
+    {
+      "id": 94047,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200001.JPG",
+      "lat": 39.353805,
+      "lng": -108.3282783
+    },
+    {
+      "id": 94048,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200002.JPG",
+      "lat": 39.353805,
+      "lng": -108.3282783
+    },
+    {
+      "id": 94049,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200003.JPG",
+      "lat": 39.353805,
+      "lng": -108.3282783
+    },
+    {
+      "id": 94050,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200004.JPG",
+      "lat": 39.35386,
+      "lng": -108.3294633
+    },
+    {
+      "id": 94051,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200005.JPG",
+      "lat": 39.35393,
+      "lng": -108.3291467
+    },
+    {
+      "id": 94052,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200006.JPG",
+      "lat": 39.35406833,
+      "lng": -108.3294167
+    },
+    {
+      "id": 94053,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200007.JPG",
+      "lat": 39.35407667,
+      "lng": -108.32912
+    },
+    {
+      "id": 94054,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200008.JPG",
+      "lat": 39.35407667,
+      "lng": -108.3291217
+    },
+    {
+      "id": 94055,
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200009.JPG",
+      "lat": 39.35406167,
+      "lng": -108.328875
+    }
+  ]
 }
