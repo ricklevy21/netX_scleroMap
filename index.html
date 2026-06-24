@@ -48,12 +48,25 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 const API_BASE = "https://botanicgardens.netx.net";
-const API_TOKEN = "NDAyOrnDigHYS3iZAc9ipoldzzB8sqzt";
+const API_RPC = API_BASE + "/api/rpc";
+const API_TOKEN = "PASTE_YOUR_API_TOKEN_HERE";
 const FOLDER_ID = 2519;
 const HEADERS = {
   "Authorization": "Bearer " + API_TOKEN,
   "Content-Type": "application/json"
 };
+
+async function rpc(method, params) {
+  const res = await fetch(API_RPC, {
+    method: "POST",
+    headers: HEADERS,
+    body: JSON.stringify({ jsonrpc: "2.0", id: 1, method, params })
+  });
+  if (!res.ok) throw new Error(`API error ${res.status}`);
+  const data = await res.json();
+  if (data.error) throw new Error(`RPC error: ${data.error.message}`);
+  return data.result;
+}
 
 // DMS string like "39,21.642N" or "108,18.822W" → decimal degrees
 function parseDMS(val) {
@@ -93,19 +106,12 @@ function extractLatLng(asset) {
 async function fetchAllAssets() {
   let assets = [], offset = 0, limit = 100;
   while (true) {
-    const res = await fetch(`${API_BASE}/api/v1/asset/search`, {
-      method: "POST",
-      headers: HEADERS,
-      body: JSON.stringify({
-        query: { folderIds: [FOLDER_ID] },
-        offset,
-        limit,
-        fields: ["id", "name", "filename", "metadata", "fields"]
-      })
+    const result = await rpc("asset.search", {
+      query: { folderIds: [FOLDER_ID] },
+      offset,
+      limit
     });
-    if (!res.ok) throw new Error(`API error ${res.status}`);
-    const data = await res.json();
-    const batch = data.assets || data.results || [];
+    const batch = result.assets || result.results || [];
     assets = assets.concat(batch);
     if (batch.length < limit) break;
     offset += limit;
@@ -190,6 +196,7 @@ async function main() {
   initMap();
   try {
     const raw = await fetchAllAssets();
+    if (raw.length > 0) console.log('Sample asset:', JSON.stringify(raw[0], null, 2));
     allAssets = raw.map(a => ({ ...a, _latlng: extractLatLng(a) }));
     const geoCount = allAssets.filter(a => a._latlng).length;
     document.getElementById("status").textContent =
