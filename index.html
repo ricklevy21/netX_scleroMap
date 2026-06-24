@@ -96,7 +96,7 @@ function openPanel(asset) {
   document.getElementById("pCoords").textContent =
     `${asset.lat.toFixed(6)}, ${asset.lng.toFixed(6)}`;
   document.getElementById("pLink").href =
-    `${NETX_BASE}/portals/${PORTAL_SLUG}/asset/${asset.id}`;
+    `${NETX_BASE}/portals/${PORTAL_SLUG}/#asset/${asset.id}`;
   document.getElementById("panel").classList.add("open");
 }
 
