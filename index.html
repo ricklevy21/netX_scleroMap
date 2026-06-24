@@ -49,24 +49,23 @@
 <script>
 const API_BASE = "https://botanicgardens.netx.net";
 const API_RPC = API_BASE + "/api/rpc";
-const API_TOKEN = "NDAzOujiUmKwqPjrRIPuBfd9-mnaBBX8";
+const API_TOKEN = "NDAzOujiUmKwqPjrRIPuBfd9";
 const FOLDER_ID = 2519;
 const HEADERS = {
-  "Authorization": "Bearer " + API_TOKEN,
+  "apiToken": API_TOKEN,
   "Content-Type": "application/json"
 };
 
 async function rpc(method, params) {
-  const res = await fetch(API_RPC + "/" + method, {
+  const res = await fetch(API_RPC, {
     method: "POST",
     headers: HEADERS,
-    body: JSON.stringify(params)
+    body: JSON.stringify({ jsonrpc: "2.0", id: "1", method, params })
   });
   if (!res.ok) throw new Error(`API error ${res.status}`);
   const data = await res.json();
   if (data.error) throw new Error(`RPC error: ${data.error.message}`);
-  console.log("RPC response for", method, data);
-  return data;
+  return data.result;
 }
 
 // DMS string like "39,21.642N" or "108,18.822W" → decimal degrees
@@ -83,39 +82,53 @@ function parseDMS(val) {
   return dd;
 }
 
-// Try multiple possible GPS field paths in asset metadata
 function extractLatLng(asset) {
-  const m = asset.metadata || asset.fields || {};
+  // NetX asset.base puts file metadata under asset.file or asset.attributes
+  // GPS can live in several places depending on how NetX extracted it
+  const sources = [
+    asset.file || {},
+    asset.attributes || {},
+    asset.base || {},
+    asset
+  ];
 
-  // Try decimal first
-  let lat = parseFloat(m["exif:GPSLatitude"] || m["GPSLatitude"] || "");
-  let lng = parseFloat(m["exif:GPSLongitude"] || m["GPSLongitude"] || "");
+  for (const m of sources) {
+    // Try all known GPS field name variants
+    const rawLat = m["exif:GPSLatitude"] || m["GPSLatitude"] || m["gpsLatitude"] || "";
+    const rawLng = m["exif:GPSLongitude"] || m["GPSLongitude"] || m["gpsLongitude"] || "";
+    if (!rawLat || !rawLng) continue;
 
-  // If not decimal, try DMS strings
-  if (isNaN(lat) || isNaN(lng)) {
-    const rawLat = m["exif:GPSLatitude"] || m["GPSLatitude"] || "";
-    const rawLng = m["exif:GPSLongitude"] || m["GPSLongitude"] || "";
-    lat = parseDMS(rawLat);
-    lng = parseDMS(rawLng);
+    let lat = parseFloat(rawLat);
+    let lng = parseFloat(rawLng);
+
+    if (isNaN(lat) || isNaN(lng)) {
+      lat = parseDMS(String(rawLat));
+      lng = parseDMS(String(rawLng));
+    }
+
+    if (lat == null || lng == null || isNaN(lat) || isNaN(lng)) continue;
+    if (Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
+    return { lat, lng };
   }
-
-  if (lat == null || lng == null || isNaN(lat) || isNaN(lng)) return null;
-  if (Math.abs(lat) > 90 || Math.abs(lng) > 180) return null;
-  return { lat, lng };
+  return null;
 }
 
 async function fetchAllAssets() {
-  let assets = [], offset = 0, limit = 100;
+  let assets = [], startIndex = 0, size = 100;
   while (true) {
-    const result = await rpc("asset.search", {
-      query: { folderIds: [FOLDER_ID] },
-      offset,
-      limit
-    });
-    const batch = result.assets || result.results || [];
+    const result = await rpc("getAssetsByFolder", [
+      FOLDER_ID,
+      true,
+      {
+        "page": { "startIndex": startIndex, "size": size },
+        "data": ["asset.id", "asset.base", "asset.file", "asset.attributes"]
+      }
+    ]);
+    const batch = (result && result.results) ? result.results : [];
+    console.log("Batch received:", batch.length, batch[0] || "empty");
     assets = assets.concat(batch);
-    if (batch.length < limit) break;
-    offset += limit;
+    if (batch.length < size) break;
+    startIndex += size;
   }
   return assets;
 }
