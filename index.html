@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Sclerocactus demography — asset map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Arial, sans-serif; background: #f9f9f7; color: #222; }
+  #app { max-width: 960px; margin: 0 auto; padding: 16px; }
+  h2 { font-size: 16px; font-weight: 600; margin-bottom: 12px; color: #2c2c2a; }
+  #status { font-size: 13px; color: #666; margin-bottom: 10px; min-height: 18px; }
+  #map { width: 100%; height: 480px; border-radius: 8px; border: 1px solid #ddd; }
+  #panel { display: none; margin-top: 12px; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 16px; }
+  #panel.open { display: block; }
+  .panel-title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
+  .panel-coords { font-size: 12px; font-family: monospace; color: #444; margin-bottom: 10px; }
+  .panel-link { font-size: 13px; color: #1a6fb5; text-decoration: none; }
+  .panel-link:hover { text-decoration: underline; }
+  .close-btn { float: right; cursor: pointer; font-size: 18px; color: #888; background: none; border: none; }
+  .toolbar { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
+  .toolbar input { flex: 1; min-width: 140px; height: 32px; padding: 0 10px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; }
+  .toolbar button { height: 32px; padding: 0 12px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; }
+  .toolbar button:hover { background: #f0f0f0; }
+  .count-badge { font-size: 12px; color: #666; align-self: center; white-space: nowrap; }
+  .updated { font-size: 11px; color: #aaa; margin-top: 8px; }
+</style>
+</head>
+<body>
+<div id="app">
+  <h2>Sclerocactus demography — asset map</h2>
+  <div id="status">Loading...</div>
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="Search by name..." oninput="applyFilter()" />
+    <button onclick="resetMap()">Reset view</button>
+    <span class="count-badge" id="countBadge"></span>
+  </div>
+  <div id="map"></div>
+  <div id="panel">
+    <button class="close-btn" onclick="closePanel()">×</button>
+    <div class="panel-title" id="pTitle"></div>
+    <div class="panel-coords" id="pCoords"></div>
+    <a class="panel-link" id="pLink" href="#" target="_blank">View in NetX →</a>
+  </div>
+  <div class="updated" id="updatedAt"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const NETX_BASE = "https://botanicgardens.netx.net";
+const PORTAL_SLUG = "sclerocactusdemography";
+
+let map, allAssets = [], visibleMarkers = [];
+
+function initMap() {
+  map = L.map("map").setView([39.5, -108.5], 9);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap contributors",
+    maxZoom: 19
+  }).addTo(map);
+}
+
+function makeIcon() {
+  return L.divIcon({
+    className: "",
+    html: `<svg width="22" height="30" viewBox="0 0 22 30" xmlns="http://www.w3.org/2000/svg">
+      <path d="M11 0C4.9 0 0 4.9 0 11c0 6.6 11 19 11 19S22 17.6 22 11C22 4.9 17.1 0 11 0z" fill="#2d7a4f"/>
+      <circle cx="11" cy="11" r="4.5" fill="white"/>
+    </svg>`,
+    iconSize: [22, 30],
+    iconAnchor: [11, 30],
+    popupAnchor: [0, -30]
+  });
+}
+
+function renderMarkers(assets) {
+  visibleMarkers.forEach(m => map.removeLayer(m));
+  visibleMarkers = [];
+  assets.forEach(asset => {
+    const m = L.marker([asset.lat, asset.lng], { icon: makeIcon() });
+    m.bindTooltip(asset.name, { direction: "top" });
+    m.on("click", () => openPanel(asset));
+    m.addTo(map);
+    visibleMarkers.push(m);
+  });
+  document.getElementById("countBadge").textContent = `${assets.length} geotagged assets`;
+  if (assets.length > 0) {
+    const group = L.featureGroup(visibleMarkers);
+    map.fitBounds(group.getBounds().pad(0.2));
+  }
+}
+
+function openPanel(asset) {
+  document.getElementById("pTitle").textContent = asset.name;
+  document.getElementById("pCoords").textContent =
+    `${asset.lat.toFixed(6)}, ${asset.lng.toFixed(6)}`;
+  document.getElementById("pLink").href =
+    `${NETX_BASE}/portals/${PORTAL_SLUG}/asset/${asset.id}`;
+  document.getElementById("panel").classList.add("open");
+}
+
+function closePanel() {
+  document.getElementById("panel").classList.remove("open");
+}
+
+function applyFilter() {
+  const q = document.getElementById("search").value.toLowerCase();
+  const filtered = allAssets.filter(a => !q || a.name.toLowerCase().includes(q));
+  renderMarkers(filtered);
+}
+
+function resetMap() {
+  document.getElementById("search").value = "";
+  renderMarkers(allAssets);
+}
+
+async function main() {
+  initMap();
+  try {
+    const res = await fetch("assets.json");
+    if (!res.ok) throw new Error(`Could not load assets.json (${res.status})`);
+    const data = await res.json();
+    allAssets = data.assets || [];
+    document.getElementById("status").textContent =
+      allAssets.length > 0
+        ? `Showing ${allAssets.length} geotagged assets.`
+        : "No geotagged assets found.";
+    if (data.updated_at) {
+      document.getElementById("updatedAt").textContent =
+        `Last updated: ${new Date(data.updated_at).toLocaleString()}`;
+    }
+    renderMarkers(allAssets);
+  } catch (e) {
+    document.getElementById("status").textContent = "Error: " + e.message;
+  }
+}
+
+main();
+</script>
+</body>
+</html>
