@@ -37,26 +37,35 @@ function parseDMS(val) {
 }
 
 function extractLatLng(asset) {
-  const sources = [
-    asset.file || {},
-    asset.attributes || {},
-    asset.base || {},
-    asset
-  ];
-  for (const m of sources) {
-    const rawLat = m["exif:GPSLatitude"] || m["GPSLatitude"] || m["gpsLatitude"] || "";
-    const rawLng = m["exif:GPSLongitude"] || m["GPSLongitude"] || m["gpsLongitude"] || "";
-    if (!rawLat || !rawLng) continue;
+  // Primary: asset.metadata (embedded EXIF)
+  const meta = asset.metadata || {};
+  const rawLat = meta["exif:GPSLatitude"] || meta["GPSLatitude"] || "";
+  const rawLng = meta["exif:GPSLongitude"] || meta["GPSLongitude"] || "";
+
+  if (rawLat && rawLng) {
     let lat = parseFloat(rawLat);
     let lng = parseFloat(rawLng);
     if (isNaN(lat) || isNaN(lng)) {
       lat = parseDMS(String(rawLat));
       lng = parseDMS(String(rawLng));
     }
-    if (lat == null || lng == null || isNaN(lat) || isNaN(lng)) continue;
-    if (Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
-    return { lat, lng };
+    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
+      return { lat, lng };
+    }
   }
+
+  // Fallback: custom attributes decimalLatitude / decimalLongitude
+  const attrs = asset.attributes || {};
+  const attrLat = (attrs.decimalLatitude || [])[0] || "";
+  const attrLng = (attrs.decimalLongitude || [])[0] || "";
+  if (attrLat && attrLng) {
+    let lat = parseFloat(attrLat);
+    let lng = parseFloat(attrLng);
+    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
+      return { lat, lng };
+    }
+  }
+
   return null;
 }
 
@@ -86,6 +95,7 @@ function extractLatLng(asset) {
   // Log first asset structure to help debug GPS field names
   if (allAssets.length > 0) {
     console.log("Sample asset structure:", JSON.stringify(allAssets[0], null, 2));
+  console.log("Sample metadata:", JSON.stringify(allAssets[0].metadata, null, 2));
   }
 
   const geoAssets = allAssets
