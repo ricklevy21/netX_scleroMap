@@ -1,0 +1,29 @@
+name: Build asset map
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # runs daily at 6am UTC
+  workflow_dispatch:      # allows manual trigger from GitHub Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch assets from NetX
+        env:
+          NETX_BASE_URL: ${{ secrets.NETX_BASE_URL }}
+          NETX_TOKEN: ${{ secrets.NETX_TOKEN }}
+        run: node fetch-assets.js
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site

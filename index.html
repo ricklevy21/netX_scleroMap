@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Sclerocactus demography — asset map</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -14,7 +15,6 @@
   #panel { display: none; margin-top: 12px; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 16px; }
   #panel.open { display: block; }
   .panel-title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
-  .panel-meta { font-size: 12px; color: #666; margin-bottom: 10px; }
   .panel-coords { font-size: 12px; font-family: monospace; color: #444; margin-bottom: 10px; }
   .panel-link { font-size: 13px; color: #1a6fb5; text-decoration: none; }
   .panel-link:hover { text-decoration: underline; }
@@ -24,14 +24,15 @@
   .toolbar button { height: 32px; padding: 0 12px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; }
   .toolbar button:hover { background: #f0f0f0; }
   .count-badge { font-size: 12px; color: #666; align-self: center; white-space: nowrap; }
+  .updated { font-size: 11px; color: #aaa; margin-top: 8px; }
 </style>
 </head>
 <body>
 <div id="app">
   <h2>Sclerocactus demography — asset map</h2>
-  <div id="status">Loading assets...</div>
+  <div id="status">Loading...</div>
   <div class="toolbar">
-    <input type="text" id="search" placeholder="Search by filename..." oninput="applyFilter()" />
+    <input type="text" id="search" placeholder="Search by name..." oninput="applyFilter()" />
     <button onclick="resetMap()">Reset view</button>
     <span class="count-badge" id="countBadge"></span>
   </div>
@@ -39,101 +40,18 @@
   <div id="panel">
     <button class="close-btn" onclick="closePanel()">×</button>
     <div class="panel-title" id="pTitle"></div>
-    <div class="panel-meta" id="pMeta"></div>
     <div class="panel-coords" id="pCoords"></div>
     <a class="panel-link" id="pLink" href="#" target="_blank">View in NetX →</a>
   </div>
+  <div class="updated" id="updatedAt"></div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-const API_BASE = "https://botanicgardens.netx.net";
-const API_RPC = API_BASE + "/api/rpc";
-const API_TOKEN = "NDAzOujiUmKwqPjrRIPuBfd9";
-const FOLDER_ID = 2519;
-const HEADERS = {
-  "apiToken": API_TOKEN,
-  "Content-Type": "application/json"
-};
+const NETX_BASE = "https://botanicgardens.netx.net";
+const PORTAL_SLUG = "sclerocactusdemography";
 
-async function rpc(method, params) {
-  const res = await fetch(API_RPC, {
-    method: "POST",
-    headers: HEADERS,
-    body: JSON.stringify({ jsonrpc: "2.0", id: "1", method, params })
-  });
-  if (!res.ok) throw new Error(`API error ${res.status}`);
-  const data = await res.json();
-  if (data.error) throw new Error(`RPC error: ${data.error.message}`);
-  return data.result;
-}
-
-// DMS string like "39,21.642N" or "108,18.822W" → decimal degrees
-function parseDMS(val) {
-  if (!val) return null;
-  val = String(val).trim();
-  const dir = val.slice(-1).toUpperCase();
-  const parts = val.slice(0, -1).split(",");
-  if (parts.length < 2) return null;
-  const deg = parseFloat(parts[0]);
-  const min = parseFloat(parts[1]);
-  let dd = deg + min / 60;
-  if (dir === "S" || dir === "W") dd = -dd;
-  return dd;
-}
-
-function extractLatLng(asset) {
-  // NetX asset.base puts file metadata under asset.file or asset.attributes
-  // GPS can live in several places depending on how NetX extracted it
-  const sources = [
-    asset.file || {},
-    asset.attributes || {},
-    asset.base || {},
-    asset
-  ];
-
-  for (const m of sources) {
-    // Try all known GPS field name variants
-    const rawLat = m["exif:GPSLatitude"] || m["GPSLatitude"] || m["gpsLatitude"] || "";
-    const rawLng = m["exif:GPSLongitude"] || m["GPSLongitude"] || m["gpsLongitude"] || "";
-    if (!rawLat || !rawLng) continue;
-
-    let lat = parseFloat(rawLat);
-    let lng = parseFloat(rawLng);
-
-    if (isNaN(lat) || isNaN(lng)) {
-      lat = parseDMS(String(rawLat));
-      lng = parseDMS(String(rawLng));
-    }
-
-    if (lat == null || lng == null || isNaN(lat) || isNaN(lng)) continue;
-    if (Math.abs(lat) > 90 || Math.abs(lng) > 180) continue;
-    return { lat, lng };
-  }
-  return null;
-}
-
-async function fetchAllAssets() {
-  let assets = [], startIndex = 0, size = 100;
-  while (true) {
-    const result = await rpc("getAssetsByFolder", [
-      FOLDER_ID,
-      true,
-      {
-        "page": { "startIndex": startIndex, "size": size },
-        "data": ["asset.id", "asset.base", "asset.file", "asset.attributes"]
-      }
-    ]);
-    const batch = (result && result.results) ? result.results : [];
-    console.log("Batch received:", batch.length, batch[0] || "empty");
-    assets = assets.concat(batch);
-    if (batch.length < size) break;
-    startIndex += size;
-  }
-  return assets;
-}
-
-let map, allAssets = [], visibleMarkers = [], markerMap = {};
+let map, allAssets = [], visibleMarkers = [];
 
 function initMap() {
   map = L.map("map").setView([39.5, -108.5], 9);
@@ -159,32 +77,26 @@ function makeIcon() {
 function renderMarkers(assets) {
   visibleMarkers.forEach(m => map.removeLayer(m));
   visibleMarkers = [];
-  markerMap = {};
-  const geoAssets = assets.filter(a => a._latlng);
-  geoAssets.forEach(asset => {
-    const m = L.marker([asset._latlng.lat, asset._latlng.lng], { icon: makeIcon() });
-    m.bindTooltip(asset.filename || asset.name || asset.id, { direction: "top" });
+  assets.forEach(asset => {
+    const m = L.marker([asset.lat, asset.lng], { icon: makeIcon() });
+    m.bindTooltip(asset.name, { direction: "top" });
     m.on("click", () => openPanel(asset));
     m.addTo(map);
     visibleMarkers.push(m);
-    markerMap[asset.id] = m;
   });
-  document.getElementById("countBadge").textContent =
-    `${geoAssets.length} of ${assets.length} assets have GPS`;
-  if (geoAssets.length > 0) {
+  document.getElementById("countBadge").textContent = `${assets.length} geotagged assets`;
+  if (assets.length > 0) {
     const group = L.featureGroup(visibleMarkers);
     map.fitBounds(group.getBounds().pad(0.2));
   }
 }
 
 function openPanel(asset) {
-  const ll = asset._latlng;
-  document.getElementById("pTitle").textContent = asset.filename || asset.name || asset.id;
-  document.getElementById("pMeta").textContent = `Asset ID: ${asset.id}`;
+  document.getElementById("pTitle").textContent = asset.name;
   document.getElementById("pCoords").textContent =
-    `${ll.lat.toFixed(6)}, ${ll.lng.toFixed(6)}`;
+    `${asset.lat.toFixed(6)}, ${asset.lng.toFixed(6)}`;
   document.getElementById("pLink").href =
-    `${API_BASE}/portals/sclerocactusdemography/asset/${asset.id}`;
+    `${NETX_BASE}/portals/${PORTAL_SLUG}/asset/${asset.id}`;
   document.getElementById("panel").classList.add("open");
 }
 
@@ -194,10 +106,7 @@ function closePanel() {
 
 function applyFilter() {
   const q = document.getElementById("search").value.toLowerCase();
-  const filtered = allAssets.filter(a => {
-    const name = (a.filename || a.name || "").toLowerCase();
-    return !q || name.includes(q);
-  });
+  const filtered = allAssets.filter(a => !q || a.name.toLowerCase().includes(q));
   renderMarkers(filtered);
 }
 
@@ -209,18 +118,21 @@ function resetMap() {
 async function main() {
   initMap();
   try {
-    const raw = await fetchAllAssets();
-    if (raw.length > 0) console.log('Sample asset:', JSON.stringify(raw[0], null, 2));
-    allAssets = raw.map(a => ({ ...a, _latlng: extractLatLng(a) }));
-    const geoCount = allAssets.filter(a => a._latlng).length;
+    const res = await fetch("assets.json");
+    if (!res.ok) throw new Error(`Could not load assets.json (${res.status})`);
+    const data = await res.json();
+    allAssets = data.assets || [];
     document.getElementById("status").textContent =
-      geoCount > 0
-        ? `Found ${raw.length} assets — ${geoCount} have GPS coordinates.`
-        : `Found ${raw.length} assets but none had readable GPS metadata. Check field names in the console.`;
+      allAssets.length > 0
+        ? `Showing ${allAssets.length} geotagged assets.`
+        : "No geotagged assets found.";
+    if (data.updated_at) {
+      document.getElementById("updatedAt").textContent =
+        `Last updated: ${new Date(data.updated_at).toLocaleString()}`;
+    }
     renderMarkers(allAssets);
   } catch (e) {
-    document.getElementById("status").textContent = "Error loading assets: " + e.message;
-    console.error(e);
+    document.getElementById("status").textContent = "Error: " + e.message;
   }
 }
 
