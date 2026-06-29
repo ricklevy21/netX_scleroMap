@@ -23,36 +23,36 @@ async function rpcCall(method, params) {
   return json.result;
 }
 
-function parseDMS(val) {
-  if (!val) return null;
-  val = String(val).trim();
-  const dir = val.slice(-1).toUpperCase();
-  const parts = val.slice(0, -1).split(",");
-  if (parts.length < 2) return null;
-  const deg = parseFloat(parts[0]);
-  const min = parseFloat(parts[1]);
-  let dd = deg + min / 60;
-  if (dir === "S" || dir === "W") dd = -dd;
-  return isNaN(dd) ? null : dd;
-}
+// function parseDMS(val) {
+//   if (!val) return null;
+//   val = String(val).trim();
+//   const dir = val.slice(-1).toUpperCase();
+//   const parts = val.slice(0, -1).split(",");
+//   if (parts.length < 2) return null;
+//   const deg = parseFloat(parts[0]);
+//   const min = parseFloat(parts[1]);
+//   let dd = deg + min / 60;
+//   if (dir === "S" || dir === "W") dd = -dd;
+//   return isNaN(dd) ? null : dd;
+// }
 
 function extractLatLng(asset) {
-  // Primary: asset.metadata (embedded EXIF)
-  const meta = asset.metadata || {};
-  const rawLat = meta["exif:GPSLatitude"] || meta["GPSLatitude"] || "";
-  const rawLng = meta["exif:GPSLongitude"] || meta["GPSLongitude"] || "";
+  // // Primary: asset.metadata (embedded EXIF)
+  // const meta = asset.metadata || {};
+  // const rawLat = meta["exif:GPSLatitude"] || meta["GPSLatitude"] || "";
+  // const rawLng = meta["exif:GPSLongitude"] || meta["GPSLongitude"] || "";
 
-  if (rawLat && rawLng) {
-    let lat = parseFloat(rawLat);
-    let lng = parseFloat(rawLng);
-    if (isNaN(lat) || isNaN(lng)) {
-      lat = parseDMS(String(rawLat));
-      lng = parseDMS(String(rawLng));
-    }
-    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
-      return { lat, lng };
-    }
-  }
+  // if (rawLat && rawLng) {
+  //   let lat = parseFloat(rawLat);
+  //   let lng = parseFloat(rawLng);
+  //   if (isNaN(lat) || isNaN(lng)) {
+  //     lat = parseDMS(String(rawLat));
+  //     lng = parseDMS(String(rawLng));
+  //   }
+  //   if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
+  //     return { lat, lng };
+  //   }
+  // }
 
   // Fallback: custom attributes decimalLatitude / decimalLongitude
   const attrs = asset.attributes || {};
