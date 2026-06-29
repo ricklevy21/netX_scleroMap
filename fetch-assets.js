@@ -106,7 +106,9 @@ function extractLatLng(asset) {
         id: asset.id,
         name: asset.base?.name || asset.file?.name || String(asset.id),
         lat: ll.lat,
-        lng: ll.lng
+        lng: ll.lng,
+        project: (attrs.Project || [])[0] || "",
+        locationID: (attrs.locationID || [])[0] || ""
       };
     })
     .filter(Boolean);
