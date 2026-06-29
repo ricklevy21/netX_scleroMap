@@ -80,7 +80,7 @@ function extractLatLng(asset) {
       true,
       {
         page: { startIndex, size },
-        data: ["asset.id", "asset.base", "asset.file", "asset.attributes", "asset.metadata"]
+        data: ["asset.id", "asset.base", "asset.file", "asset.attributes"]
       }
     ]);
     const batch = (result && result.results) ? result.results : [];
