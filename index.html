@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Sclerocactus demography — asset map</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.css" />
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: Arial, sans-serif; background: #f9f9f7; color: #222; }
@@ -12,6 +13,13 @@
   h2 { font-size: 16px; font-weight: 600; margin-bottom: 12px; color: #2c2c2a; }
   #status { font-size: 13px; color: #666; margin-bottom: 10px; min-height: 18px; }
   #map { width: 100%; height: 480px; border-radius: 8px; border: 1px solid #ddd; }
+  .toolbar { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
+  .toolbar input { flex: 1; min-width: 140px; height: 32px; padding: 0 10px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; }
+  .toolbar button { height: 32px; padding: 0 12px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; white-space: nowrap; }
+  .toolbar button:hover { background: #f0f0f0; }
+  .count-badge { font-size: 12px; color: #666; align-self: center; white-space: nowrap; }
+
+  /* Asset panel */
   #panel { display: none; margin-top: 12px; background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 16px; }
   #panel.open { display: block; }
   .panel-title { font-size: 15px; font-weight: 600; margin-bottom: 6px; }
@@ -19,12 +27,26 @@
   .panel-link { font-size: 13px; color: #1a6fb5; text-decoration: none; }
   .panel-link:hover { text-decoration: underline; }
   .close-btn { float: right; cursor: pointer; font-size: 18px; color: #888; background: none; border: none; }
-  .toolbar { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; align-items: center; }
-  .toolbar input { flex: 1; min-width: 140px; height: 32px; padding: 0 10px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; }
-  .toolbar button { height: 32px; padding: 0 12px; font-size: 13px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; }
-  .toolbar button:hover { background: #f0f0f0; }
-  .count-badge { font-size: 12px; color: #666; align-self: center; white-space: nowrap; }
+
+  /* Selection results panel */
+  #selectionPanel { display: none; margin-top: 12px; background: #fff; border: 1px solid #2d7a4f; border-radius: 8px; padding: 16px; }
+  #selectionPanel.open { display: block; }
+  .selection-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+  .selection-title { font-size: 14px; font-weight: 600; color: #2d7a4f; }
+  .selection-actions { display: flex; gap: 8px; align-items: center; }
+  .view-all-btn { font-size: 13px; padding: 4px 12px; background: #2d7a4f; color: #fff; border: none; border-radius: 6px; cursor: pointer; text-decoration: none; display: inline-block; }
+  .view-all-btn:hover { background: #235f3c; }
+  .clear-btn { font-size: 13px; padding: 4px 10px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; }
+  .clear-btn:hover { background: #f0f0f0; }
+  .asset-list { list-style: none; max-height: 240px; overflow-y: auto; border-top: 1px solid #eee; padding-top: 8px; }
+  .asset-list li { display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #f5f5f5; font-size: 13px; }
+  .asset-list li:last-child { border-bottom: none; }
+  .asset-list .asset-name { color: #333; flex: 1; margin-right: 8px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .asset-list a { font-size: 12px; color: #1a6fb5; text-decoration: none; white-space: nowrap; }
+  .asset-list a:hover { text-decoration: underline; }
+
   .updated { font-size: 11px; color: #aaa; margin-top: 8px; }
+  .hint { font-size: 12px; color: #888; margin-top: 6px; }
 </style>
 </head>
 <body>
@@ -34,24 +56,62 @@
   <div class="toolbar">
     <input type="text" id="search" placeholder="Search by name..." oninput="applyFilter()" />
     <button onclick="resetMap()">Reset view</button>
+    <button onclick="clearSelection()">Clear selection</button>
     <span class="count-badge" id="countBadge"></span>
   </div>
   <div id="map"></div>
+  <p class="hint">Use the polygon tool (left side of map) to draw a selection area.</p>
+
+  <!-- Single asset panel -->
   <div id="panel">
     <button class="close-btn" onclick="closePanel()">×</button>
     <div class="panel-title" id="pTitle"></div>
     <div class="panel-coords" id="pCoords"></div>
     <a class="panel-link" id="pLink" href="#" target="_blank">View in NetX →</a>
   </div>
+
+  <!-- Polygon selection results panel -->
+  <div id="selectionPanel">
+    <div class="selection-header">
+      <span class="selection-title" id="selectionTitle"></span>
+      <div class="selection-actions">
+        <a class="view-all-btn" id="viewAllBtn" href="#" target="_blank">View all in NetX →</a>
+        <button class="clear-btn" onclick="clearSelection()">Clear</button>
+      </div>
+    </div>
+    <ul class="asset-list" id="assetList"></ul>
+  </div>
+
   <div class="updated" id="updatedAt"></div>
 </div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet-draw@1.0.4/dist/leaflet.draw.js"></script>
 <script>
 const NETX_BASE = "https://botanicgardens.netx.net";
 const PORTAL_SLUG = "sclerocactusdemography";
 
-let map, allAssets = [], visibleMarkers = [];
+let map, allAssets = [], visibleMarkers = [], drawnItems;
+
+function assetUrl(id) {
+  return `${NETX_BASE}/portals/${PORTAL_SLUG}/#asset/${id}`;
+}
+
+function multiAssetUrl(ids) {
+  const payload = {
+    a: "file",
+    b: 0,
+    c: 1,
+    d: ids.map(() => 3),
+    e: ids.map(() => 4),
+    f: ids.map(() => 0),
+    g: ids.map(id => String(id)),
+    h: ids.map(() => "objectId"),
+    i: ids.map(() => "")
+  };
+  const encoded = btoa(JSON.stringify(payload));
+  return `${NETX_BASE}/portals/${PORTAL_SLUG}/#search/advanced/${encodeURIComponent(encoded)}`;
+}
 
 function initMap() {
   map = L.map("map").setView([39.5, -108.5], 9);
@@ -59,6 +119,104 @@ function initMap() {
     attribution: "© OpenStreetMap contributors",
     maxZoom: 19
   }).addTo(map);
+
+  // Draw layer
+  drawnItems = new L.FeatureGroup();
+  map.addLayer(drawnItems);
+
+  const drawControl = new L.Control.Draw({
+    draw: {
+      polygon: { shapeOptions: { color: "#2d7a4f", fillOpacity: 0.1 } },
+      polyline: false,
+      rectangle: { shapeOptions: { color: "#2d7a4f", fillOpacity: 0.1 } },
+      circle: false,
+      marker: false,
+      circlemarker: false
+    },
+    edit: { featureGroup: drawnItems }
+  });
+  map.addControl(drawControl);
+
+  map.on(L.Draw.Event.CREATED, function(e) {
+    drawnItems.clearLayers();
+    drawnItems.addLayer(e.layer);
+    handleSelection(e.layer);
+  });
+
+  map.on(L.Draw.Event.EDITED, function(e) {
+    e.layers.eachLayer(layer => handleSelection(layer));
+  });
+
+  map.on(L.Draw.Event.DELETED, function() {
+    clearSelection();
+  });
+}
+
+function handleSelection(layer) {
+  const selected = [];
+  visibleMarkers.forEach(({ marker, asset }) => {
+    const ll = marker.getLatLng();
+    if (layer.getBounds ? layer.getBounds().contains(ll) : false) {
+      // For polygons use contains point
+      if (layer.toGeoJSON) {
+        if (pointInPolygon(ll, layer)) selected.push(asset);
+      } else {
+        selected.push(asset);
+      }
+    }
+  });
+  showSelection(selected);
+}
+
+// Ray casting point-in-polygon for Leaflet layers
+function pointInPolygon(latlng, layer) {
+  const geojson = layer.toGeoJSON();
+  const coords = geojson.geometry.type === "Polygon"
+    ? geojson.geometry.coordinates[0]
+    : geojson.geometry.coordinates;
+  const x = latlng.lng, y = latlng.lat;
+  let inside = false;
+  for (let i = 0, j = coords.length - 1; i < coords.length; j = i++) {
+    const xi = coords[i][0], yi = coords[i][1];
+    const xj = coords[j][0], yj = coords[j][1];
+    const intersect = ((yi > y) !== (yj > y)) && (x < (xj - xi) * (y - yi) / (yj - yi) + xi);
+    if (intersect) inside = !inside;
+  }
+  return inside;
+}
+
+function showSelection(assets) {
+  const panel = document.getElementById("selectionPanel");
+  if (assets.length === 0) {
+    document.getElementById("selectionTitle").textContent = "No assets in selection";
+    document.getElementById("assetList").innerHTML = "";
+    document.getElementById("viewAllBtn").style.display = "none";
+    panel.classList.add("open");
+    return;
+  }
+
+  document.getElementById("selectionTitle").textContent =
+    `${assets.length} asset${assets.length !== 1 ? "s" : ""} in selection`;
+
+  const viewAllBtn = document.getElementById("viewAllBtn");
+  viewAllBtn.href = multiAssetUrl(assets.map(a => a.id));
+  viewAllBtn.style.display = "inline-block";
+
+  const list = document.getElementById("assetList");
+  list.innerHTML = assets.map(a => `
+    <li>
+      <span class="asset-name" title="${a.name}">${a.name}</span>
+      <a href="${assetUrl(a.id)}" target="_blank">View →</a>
+    </li>
+  `).join("");
+
+  panel.classList.add("open");
+  document.getElementById("panel").classList.remove("open");
+}
+
+function clearSelection() {
+  drawnItems.clearLayers();
+  document.getElementById("selectionPanel").classList.remove("open");
 }
 
 function makeIcon() {
@@ -75,18 +233,18 @@ function makeIcon() {
 }
 
 function renderMarkers(assets) {
-  visibleMarkers.forEach(m => map.removeLayer(m));
+  visibleMarkers.forEach(({ marker }) => map.removeLayer(marker));
   visibleMarkers = [];
   assets.forEach(asset => {
-    const m = L.marker([asset.lat, asset.lng], { icon: makeIcon() });
-    m.bindTooltip(asset.name, { direction: "top" });
-    m.on("click", () => openPanel(asset));
-    m.addTo(map);
-    visibleMarkers.push(m);
+    const marker = L.marker([asset.lat, asset.lng], { icon: makeIcon() });
+    marker.bindTooltip(asset.name, { direction: "top" });
+    marker.on("click", () => openPanel(asset));
+    marker.addTo(map);
+    visibleMarkers.push({ marker, asset });
   });
   document.getElementById("countBadge").textContent = `${assets.length} geotagged assets`;
   if (assets.length > 0) {
-    const group = L.featureGroup(visibleMarkers);
+    const group = L.featureGroup(visibleMarkers.map(m => m.marker));
     map.fitBounds(group.getBounds().pad(0.2));
   }
 }
@@ -95,9 +253,9 @@ function openPanel(asset) {
   document.getElementById("pTitle").textContent = asset.name;
   document.getElementById("pCoords").textContent =
     `${asset.lat.toFixed(6)}, ${asset.lng.toFixed(6)}`;
-  document.getElementById("pLink").href =
-    `${NETX_BASE}/portals/${PORTAL_SLUG}/#asset/${asset.id}`;
+  document.getElementById("pLink").href = assetUrl(asset.id);
   document.getElementById("panel").classList.add("open");
+  document.getElementById("selectionPanel").classList.remove("open");
 }
 
 function closePanel() {
@@ -112,6 +270,8 @@ function applyFilter() {
 
 function resetMap() {
   document.getElementById("search").value = "";
+  clearSelection();
+  closePanel();
   renderMarkers(allAssets);
 }
 
