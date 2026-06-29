@@ -39,14 +39,10 @@
   .clear-btn { font-size: 13px; padding: 4px 10px; border: 1px solid #ccc; border-radius: 6px; background: #fff; cursor: pointer; }
   .clear-btn:hover { background: #f0f0f0; }
   .asset-list { list-style: none; max-height: 240px; overflow-y: auto; border-top: 1px solid #eee; padding-top: 8px; }
-  .asset-list { border-collapse: collapse; width: 100%; max-height: 240px; display: block; overflow-y: auto; }
-  .asset-list thead { position: sticky; top: 0; background: #f9f9f7; z-index: 1; }
-  .asset-list th { text-align: left; font-size: 12px; color: #888; font-weight: 600; padding: 4px 8px 6px; border-bottom: 1px solid #eee; white-space: nowrap; }
-  .asset-list td { font-size: 12px; padding: 5px 8px; border-bottom: 1px solid #f5f5f5; vertical-align: middle; }
-  .asset-list tr:last-child td { border-bottom: none; }
-  .asset-list .asset-name { color: #333; max-width: 320px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .asset-list .meta { color: #666; max-width: 160px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-  .asset-list a { color: #1a6fb5; text-decoration: none; white-space: nowrap; }
+  .asset-list li { display: flex; justify-content: space-between; align-items: center; padding: 5px 0; border-bottom: 1px solid #f5f5f5; font-size: 13px; }
+  .asset-list li:last-child { border-bottom: none; }
+  .asset-list .asset-name { color: #333; flex: 1; margin-right: 8px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .asset-list a { font-size: 12px; color: #1a6fb5; text-decoration: none; white-space: nowrap; }
   .asset-list a:hover { text-decoration: underline; }
 
   .updated { font-size: 11px; color: #aaa; margin-top: 8px; }
@@ -83,7 +79,7 @@
         <button class="clear-btn" onclick="clearSelection()">Clear</button>
       </div>
     </div>
-    <table class="asset-list" id="assetList"></table>
+    <ul class="asset-list" id="assetList"></ul>
   </div>
 
   <div class="updated" id="updatedAt"></div>
@@ -207,26 +203,12 @@ function showSelection(assets) {
   viewAllBtn.style.display = "inline-block";
 
   const list = document.getElementById("assetList");
-  list.innerHTML = `
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Project</th>
-        <th>Location ID</th>
-        <th></th>
-      </tr>
-    </thead>
-    <tbody>
-      ${assets.map(a => `
-        <tr>
-          <td class="asset-name" title="${a.name}">${a.name}</td>
-          <td class="meta" title="${a.project || ''}">${a.project || '—'}</td>
-          <td class="meta">${a.locationID || '—'}</td>
-          <td><a href="${assetUrl(a.id)}" target="_blank">View →</a></td>
-        </tr>
-      `).join("")}
-    </tbody>
-  `;
+  list.innerHTML = assets.map(a => `
+    <li>
+      <span class="asset-name" title="${a.name}">${a.name}</span>
+      <a href="${assetUrl(a.id)}" target="_blank">View →</a>
+    </li>
+  `).join("");
 
   panel.classList.add("open");
   document.getElementById("panel").classList.remove("open");
