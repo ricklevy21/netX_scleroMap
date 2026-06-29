@@ -80,7 +80,7 @@ function extractLatLng(asset) {
       true,
       {
         page: { startIndex, size },
-        data: ["asset.id", "asset.base", "asset.file", "asset.attributes"]
+        data: ["asset.id", "asset.base", "asset.file", "asset.attributes", "asset.metadata"]
       }
     ]);
     const batch = (result && result.results) ? result.results : [];
@@ -106,7 +106,9 @@ function extractLatLng(asset) {
         id: asset.id,
         name: asset.base?.name || asset.file?.name || String(asset.id),
         lat: ll.lat,
-        lng: ll.lng
+        lng: ll.lng,
+        project: (attrs.Project || [])[0] || "",
+        locationID: (attrs.locationID || [])[0] || ""
       };
     })
     .filter(Boolean);
