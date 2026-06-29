@@ -37,21 +37,36 @@ function parseDMS(val) {
 }
 
 function extractLatLng(asset) {
+  // Primary: asset.metadata (embedded EXIF)
   const meta = asset.metadata || {};
   const rawLat = meta["exif:GPSLatitude"] || meta["GPSLatitude"] || "";
   const rawLng = meta["exif:GPSLongitude"] || meta["GPSLongitude"] || "";
 
-  if (!rawLat || !rawLng) return null;
-
-  let lat = parseFloat(rawLat);
-  let lng = parseFloat(rawLng);
-  if (isNaN(lat) || isNaN(lng)) {
-    lat = parseDMS(String(rawLat));
-    lng = parseDMS(String(rawLng));
+  if (rawLat && rawLng) {
+    let lat = parseFloat(rawLat);
+    let lng = parseFloat(rawLng);
+    if (isNaN(lat) || isNaN(lng)) {
+      lat = parseDMS(String(rawLat));
+      lng = parseDMS(String(rawLng));
+    }
+    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
+      return { lat, lng };
+    }
   }
-  if (lat == null || lng == null || isNaN(lat) || isNaN(lng)) return null;
-  if (Math.abs(lat) > 90 || Math.abs(lng) > 180) return null;
-  return { lat, lng };
+
+  // Fallback: custom attributes decimalLatitude / decimalLongitude
+  const attrs = asset.attributes || {};
+  const attrLat = (attrs.decimalLatitude || [])[0] || "";
+  const attrLng = (attrs.decimalLongitude || [])[0] || "";
+  if (attrLat && attrLng) {
+    let lat = parseFloat(attrLat);
+    let lng = parseFloat(attrLng);
+    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
+      return { lat, lng };
+    }
+  }
+
+  return null;
 }
 
 (async () => {
@@ -65,7 +80,7 @@ function extractLatLng(asset) {
       true,
       {
         page: { startIndex, size },
-        data: ["asset.id", "asset.base", "asset.file", "asset.attributes", "asset.metadata"]
+        data: ["asset.id", "asset.base", "asset.file", "asset.attributes"]
       }
     ]);
     const batch = (result && result.results) ? result.results : [];
@@ -77,23 +92,21 @@ function extractLatLng(asset) {
 
   console.log(`Total assets fetched: ${allAssets.length}`);
 
+  // Log first asset structure to help debug GPS field names
   if (allAssets.length > 0) {
     console.log("Sample asset structure:", JSON.stringify(allAssets[0], null, 2));
-    console.log("Sample metadata:", JSON.stringify(allAssets[0].metadata, null, 2));
+  console.log("Sample metadata:", JSON.stringify(allAssets[0].metadata, null, 2));
   }
 
   const geoAssets = allAssets
     .map(asset => {
       const ll = extractLatLng(asset);
       if (!ll) return null;
-      const attrs = asset.attributes || {};
       return {
         id: asset.id,
-        name: asset.name || asset.fileName || String(asset.id),
+        name: asset.base?.name || asset.file?.name || String(asset.id),
         lat: ll.lat,
-        lng: ll.lng,
-        project: (attrs.Project || [])[0] || "",
-        locationID: (attrs.locationID || [])[0] || ""
+        lng: ll.lng
       };
     })
     .filter(Boolean);
