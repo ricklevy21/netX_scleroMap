@@ -102,14 +102,15 @@ function extractLatLng(asset) {
     .map(asset => {
       const ll = extractLatLng(asset);
       if (!ll) return null;
-      return {
-        id: asset.id,
-        name: asset.base?.name || asset.file?.name || String(asset.id),
-        lat: ll.lat,
-        lng: ll.lng,
-        project: (attrs.Project || [])[0] || "",
-        locationID: (attrs.locationID || [])[0] || ""
-      };
+        const attrs = asset.attributes || {};
+        return {
+          id: asset.id,
+          name: asset.base?.name || asset.file?.name || String(asset.id),
+          lat: ll.lat,
+          lng: ll.lng,
+          project: (attrs.Project || [])[0] || "",
+          locationID: (attrs.locationID || [])[0] || ""
+        };
     })
     .filter(Boolean);
 
