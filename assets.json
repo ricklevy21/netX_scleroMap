@@ -1,5213 +1,1187 @@
 {
-  "updated_at": "2026-06-29T20:24:00.507Z",
+  "updated_at": "2026-06-29T20:30:47.634Z",
   "assets": [
     {
       "id": 93778,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_002",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_002.JPG",
+      "lat": 38.84903667,
+      "lng": -108.37172
     },
     {
       "id": 93779,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_003",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_003.JPG",
+      "lat": 38.84906,
+      "lng": -108.3717083
     },
     {
       "id": 93780,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_004",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_004.JPG",
+      "lat": 38.84904667,
+      "lng": -108.3716983
     },
     {
       "id": 93781,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_005",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_005.JPG",
+      "lat": 38.84882333,
+      "lng": -108.3717283
     },
     {
       "id": 93782,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_006",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_006.JPG",
+      "lat": 38.848715,
+      "lng": -108.3722417
     },
     {
       "id": 93783,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_007",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_007.JPG",
+      "lat": 38.84877,
+      "lng": -108.3719083
     },
     {
       "id": 93784,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_008",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_008.JPG",
+      "lat": 38.848915,
+      "lng": -108.3718817
     },
     {
       "id": 93785,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_009",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_009.JPG",
+      "lat": 38.848915,
+      "lng": -108.3718833
     },
     {
       "id": 93786,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_010",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_010.JPG",
+      "lat": 38.84891167,
+      "lng": -108.3718883
     },
     {
       "id": 93787,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_011",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_011.JPG",
+      "lat": 38.84914833,
+      "lng": -108.3717683
     },
     {
       "id": 93788,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_012",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_012.JPG",
+      "lat": 38.84915,
+      "lng": -108.3717633
     },
     {
       "id": 93789,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_013",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_013.JPG",
+      "lat": 38.84916667,
+      "lng": -108.3717483
     },
     {
       "id": 93790,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_014",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_014.JPG",
+      "lat": 38.84917667,
+      "lng": -108.37171
     },
     {
       "id": 93791,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_015",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_015.JPG",
+      "lat": 38.84898333,
+      "lng": -108.3718317
     },
     {
       "id": 93792,
-      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_016",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20170425_Sclerocactus-glaucus_Bridgeport_20170425_Sclerocactus-glaucus_Bridgeport_016.JPG",
+      "lat": 38.84897833,
+      "lng": -108.3718317
     },
     {
       "id": 93793,
-      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_001",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_001.JPG",
+      "lat": 38.67013667,
+      "lng": -108.328355
     },
     {
       "id": 93794,
-      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_002",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_002.JPG",
+      "lat": 38.67014333,
+      "lng": -108.3283567
     },
     {
       "id": 93795,
-      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_003",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_003.JPG",
+      "lat": 38.67014167,
+      "lng": -108.3283567
     },
     {
       "id": 93796,
-      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_004",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_004.JPG",
+      "lat": 38.670135,
+      "lng": -108.3286733
     },
     {
       "id": 93797,
-      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_005",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20170425_Sclerocactus-glaucus_Picnic_20170425_Sclerocactus-glaucus_Picnic_005.JPG",
+      "lat": 38.670125,
+      "lng": -108.3286867
     },
     {
       "id": 93798,
-      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_001",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_001.JPG",
+      "lat": 38.72912333,
+      "lng": -108.1770367
     },
     {
       "id": 93799,
-      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_002",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_002.JPG",
+      "lat": 38.72909833,
+      "lng": -108.1770317
     },
     {
       "id": 93800,
-      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_003",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_003.JPG",
+      "lat": 38.72896833,
+      "lng": -108.1771917
     },
     {
       "id": 93801,
-      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_004",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_004.JPG",
+      "lat": 38.72905167,
+      "lng": -108.1771417
     },
     {
       "id": 93802,
-      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_005",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_005.JPG",
+      "lat": 38.72899667,
+      "lng": -108.1772217
     },
     {
       "id": 93803,
-      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_006",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
+      "name": "20170425_Sclerocactus-glaucus_Powerline_20170425_Sclerocactus-glaucus_Powerline_006.JPG",
+      "lat": 38.729015,
+      "lng": -108.1772417
     },
     {
       "id": 93804,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0338",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0338.JPG",
+      "lat": 39.344195,
+      "lng": -108.3104333
     },
     {
       "id": 93805,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0339",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0339.JPG",
+      "lat": 39.344155,
+      "lng": -108.3104
     },
     {
       "id": 93806,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0340",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0340.JPG",
+      "lat": 39.34415667,
+      "lng": -108.3104067
     },
     {
       "id": 93807,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0341",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0341.JPG",
+      "lat": 39.34416,
+      "lng": -108.3104083
     },
     {
       "id": 93808,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0342",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0342.JPG",
+      "lat": 39.34416167,
+      "lng": -108.3104333
     },
     {
       "id": 93809,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0343",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0343.JPG",
+      "lat": 39.34415667,
+      "lng": -108.31043
     },
     {
       "id": 93810,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0344",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0344.JPG",
+      "lat": 39.34415333,
+      "lng": -108.3104483
     },
     {
       "id": 93811,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0345",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0345.JPG",
+      "lat": 39.34415333,
+      "lng": -108.31045
     },
     {
       "id": 93812,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0346",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0346.JPG",
+      "lat": 39.34416167,
+      "lng": -108.310435
     },
     {
       "id": 93813,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0347",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0347.JPG",
+      "lat": 39.344155,
+      "lng": -108.3104033
     },
     {
       "id": 93814,
-      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0348",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20170426_Sclerocactus-glaucus_OilPad_20170426_Sclerocactus-glaucus_OilPad_DSCN0348.JPG",
+      "lat": 39.34416167,
+      "lng": -108.3103983
     },
     {
       "id": 93815,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0349",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0349.JPG",
+      "lat": 39.36060167,
+      "lng": -108.313465
     },
     {
       "id": 93816,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0350",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0350.JPG",
+      "lat": 39.36056167,
+      "lng": -108.3134683
     },
     {
       "id": 93817,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0351",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0351.JPG",
+      "lat": 39.36056667,
+      "lng": -108.313475
     },
     {
       "id": 93818,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0352",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0352.JPG",
+      "lat": 39.36055667,
+      "lng": -108.313475
     },
     {
       "id": 93819,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0353",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0353.JPG",
+      "lat": 39.36055667,
+      "lng": -108.3134767
     },
     {
       "id": 93820,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0354",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0354.JPG",
+      "lat": 39.36055833,
+      "lng": -108.313475
     },
     {
       "id": 93821,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0355",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0355.JPG",
+      "lat": 39.36055167,
+      "lng": -108.3134717
     },
     {
       "id": 93822,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0356",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0356.JPG",
+      "lat": 39.36055,
+      "lng": -108.3134717
     },
     {
       "id": 93823,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0357",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0357.JPG",
+      "lat": 39.36055667,
+      "lng": -108.3134733
     },
     {
       "id": 93824,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0358",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0358.JPG",
+      "lat": 39.36056833,
+      "lng": -108.31349
     },
     {
       "id": 93825,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0359",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0359.JPG",
+      "lat": 39.36058167,
+      "lng": -108.3135017
     },
     {
       "id": 93826,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0360",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0360.JPG",
+      "lat": 39.36058,
+      "lng": -108.3135017
     },
     {
       "id": 93827,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0361",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0361.JPG",
+      "lat": 39.36057333,
+      "lng": -108.3134917
     },
     {
       "id": 93828,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0362",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0362.JPG",
+      "lat": 39.36058,
+      "lng": -108.3134783
     },
     {
       "id": 93829,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0363",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0363.JPG",
+      "lat": 39.360305,
+      "lng": -108.313345
     },
     {
       "id": 93830,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0364",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0364.JPG",
+      "lat": 39.36030167,
+      "lng": -108.3133417
     },
     {
       "id": 93831,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0365",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0365.JPG",
+      "lat": 39.36031,
+      "lng": -108.3133417
     },
     {
       "id": 93832,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0366",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0366.JPG",
+      "lat": 39.36031333,
+      "lng": -108.3133517
     },
     {
       "id": 93833,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0367",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0367.JPG",
+      "lat": 39.35994,
+      "lng": -108.3126383
     },
     {
       "id": 93834,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0368",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0368.JPG",
+      "lat": 39.35994,
+      "lng": -108.31264
     },
     {
       "id": 93835,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0369",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0369.JPG",
+      "lat": 39.35995333,
+      "lng": -108.31264
     },
     {
       "id": 93836,
-      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0370",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20170426_Sclerocactus-glaucus_Pond_20170426_Sclerocactus-glaucus_Pond_DSCN0370.JPG",
+      "lat": 39.35998167,
+      "lng": -108.3126233
     },
     {
       "id": 93837,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_001",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_001.JPG",
+      "lat": 39.30712667,
+      "lng": -108.2749367
     },
     {
       "id": 93838,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_002",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_002.JPG",
+      "lat": 39.30713,
+      "lng": -108.27495
     },
     {
       "id": 93839,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_003",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_003.JPG",
+      "lat": 39.30712833,
+      "lng": -108.2749483
     },
     {
       "id": 93840,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_004",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_004.JPG",
+      "lat": 39.30712167,
+      "lng": -108.2749217
     },
     {
       "id": 93841,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_005",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_005.JPG",
+      "lat": 39.30702333,
+      "lng": -108.275065
     },
     {
       "id": 93842,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_006",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_006.JPG",
+      "lat": 39.30703667,
+      "lng": -108.2750617
     },
     {
       "id": 93843,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_007",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_007.JPG",
+      "lat": 39.307035,
+      "lng": -108.2751233
     },
     {
       "id": 93844,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_008",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_008.JPG",
+      "lat": 39.30695167,
+      "lng": -108.2752517
     },
     {
       "id": 93845,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_010",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_010.JPG",
+      "lat": 39.30685833,
+      "lng": -108.27534
     },
     {
       "id": 93846,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_011",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_011.JPG",
+      "lat": 39.30709333,
+      "lng": -108.2750217
     },
     {
       "id": 93847,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_012",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_012.JPG",
+      "lat": 39.30702833,
+      "lng": -108.275195
     },
     {
       "id": 93848,
-      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_013",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 93853,
-      "name": "20180501_ScGl2018_AtwellGulch_P5010005",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 93854,
-      "name": "20180501_ScGl2018_AtwellGulch_P5010006",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 93860,
-      "name": "20180501_ScGl2018_AtwellGulch_P5010012",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 93861,
-      "name": "20180501_ScGl2018_AtwellGulch_P5010013",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 93862,
-      "name": "20180501_ScGl2018_AtwellGulch_P5010014",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20170426_Sclerocactus-glaucus_PyramidRock_20170426_Sclerocactus-glaucus_PyramidRock_013.JPG",
+      "lat": 39.30671333,
+      "lng": -108.2751367
     },
     {
       "id": 93865,
-      "name": "20180502_Sclerocactus-glaucus_Bridgeport_20180502_ScGl2018_Bridgeport_P5020022",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20180502_Sclerocactus-glaucus_Bridgeport_20180502_ScGl2018_Bridgeport_P5020022.JPG",
+      "lat": 38.84618333,
+      "lng": -108.3713483
     },
     {
       "id": 93866,
-      "name": "20180502_Sclerocactus-glaucus_Bridgeport_20180502_ScGl2018_Bridgeport_P5020023",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20180502_Sclerocactus-glaucus_Bridgeport_20180502_ScGl2018_Bridgeport_P5020023.JPG",
+      "lat": 38.848475,
+      "lng": -108.3717833
     },
     {
       "id": 93870,
-      "name": "20180502_Sclerocactus-glaucus_EscalantePicnic_20180502_ScGl2018_EscalantePicnic_P5020018",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20180502_Sclerocactus-glaucus_EscalantePicnic_20180502_ScGl2018_EscalantePicnic_P5020018.JPG",
+      "lat": 38.670035,
+      "lng": -108.3283367
     },
     {
       "id": 93871,
-      "name": "20180502_Sclerocactus-glaucus_EscalantePicnic_20180502_ScGl2018_EscalantePicnic_P5020019",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20180502_Sclerocactus-glaucus_EscalantePicnic_20180502_ScGl2018_EscalantePicnic_P5020019.JPG",
+      "lat": 38.670035,
+      "lng": -108.328335
     },
     {
       "id": 93875,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030027",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030027.JPG",
+      "lat": 39.30702667,
+      "lng": -108.2755683
     },
     {
       "id": 93876,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030028",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030028.JPG",
+      "lat": 39.30702667,
+      "lng": -108.2755683
     },
     {
       "id": 93877,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030029",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030029.JPG",
+      "lat": 39.30696167,
+      "lng": -108.27554
     },
     {
       "id": 93878,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030030",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030030.JPG",
+      "lat": 39.30695333,
+      "lng": -108.2755333
     },
     {
       "id": 93879,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030031",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030031.JPG",
+      "lat": 39.306745,
+      "lng": -108.2754767
     },
     {
       "id": 93880,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030032",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030032.JPG",
+      "lat": 39.30674,
+      "lng": -108.2754783
     },
     {
       "id": 93881,
-      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030033",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180503_Sclerocactus-glaucus_PyramidRock_20180503_ScGl2018_PyramidRock_P5030033.JPG",
+      "lat": 39.30674,
+      "lng": -108.2754783
     },
     {
       "id": 93882,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040069",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040069.JPG",
+      "lat": 39.30694167,
+      "lng": -108.2753967
     },
     {
       "id": 93883,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040070",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040070.JPG",
+      "lat": 39.30696167,
+      "lng": -108.275685
     },
     {
       "id": 93884,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040071",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040071.JPG",
+      "lat": 39.30696167,
+      "lng": -108.275685
     },
     {
       "id": 93885,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040072",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040072.JPG",
+      "lat": 39.30695167,
+      "lng": -108.275625
     },
     {
       "id": 93886,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040073",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040073.JPG",
+      "lat": 39.30695167,
+      "lng": -108.275625
     },
     {
       "id": 93887,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040074",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040074.JPG",
+      "lat": 39.306785,
+      "lng": -108.2755133
     },
     {
       "id": 93888,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040075",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040075.JPG",
+      "lat": 39.30701833,
+      "lng": -108.2755233
     },
     {
       "id": 93889,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040076",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040076.JPG",
+      "lat": 39.307055,
+      "lng": -108.2759017
     },
     {
       "id": 93890,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040077",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040077.JPG",
+      "lat": 39.30668833,
+      "lng": -108.2752933
     },
     {
       "id": 93891,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040078",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040078.JPG",
+      "lat": 39.30668833,
+      "lng": -108.2752933
     },
     {
       "id": 93892,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040079",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040079.JPG",
+      "lat": 39.30675,
+      "lng": -108.275415
     },
     {
       "id": 93893,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040080",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040080.JPG",
+      "lat": 39.30676167,
+      "lng": -108.2754
     },
     {
       "id": 93894,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040081",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040081.JPG",
+      "lat": 39.30671667,
+      "lng": -108.2754233
     },
     {
       "id": 93895,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040082",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040082.JPG",
+      "lat": 39.30671667,
+      "lng": -108.2754233
     },
     {
       "id": 93896,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040083",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040083.JPG",
+      "lat": 39.30713167,
+      "lng": -108.276725
     },
     {
       "id": 93897,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040084",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040084.JPG",
+      "lat": 39.30706333,
+      "lng": -108.2767083
     },
     {
       "id": 93898,
-      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040085",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20180504_Scleocactus-glaucus_PyramidRock_20180504_ScGl2018_PyramidRock_P5040085.JPG",
+      "lat": 39.30702833,
+      "lng": -108.2767033
     },
     {
       "id": 93900,
-      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040035",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040035.JPG",
+      "lat": 39.34333667,
+      "lng": -108.3099967
     },
     {
       "id": 93901,
-      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040036",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040036.JPG",
+      "lat": 39.34425,
+      "lng": -108.3102
     },
     {
       "id": 93902,
-      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040037",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040037.JPG",
+      "lat": 39.34425167,
+      "lng": -108.31019
     },
     {
       "id": 93903,
-      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040038",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20180504_Sclerocactus-glaucus_OilPad_20180504_ScGl2018_OilPad_P5040038.JPG",
+      "lat": 39.34425667,
+      "lng": -108.310175
     },
     {
       "id": 93904,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040039",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040039.JPG",
+      "lat": 39.36061833,
+      "lng": -108.313715
     },
     {
       "id": 93905,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040040",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040040.JPG",
+      "lat": 39.36061833,
+      "lng": -108.313715
     },
     {
       "id": 93906,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040041",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040041.JPG",
+      "lat": 39.36060333,
+      "lng": -108.3136483
     },
     {
       "id": 93907,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040042",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040042.JPG",
+      "lat": 39.36060333,
+      "lng": -108.3136483
     },
     {
       "id": 93908,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040043",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040043.JPG",
+      "lat": 39.36059167,
+      "lng": -108.3135817
     },
     {
       "id": 93909,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040044",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040044.JPG",
+      "lat": 39.36059167,
+      "lng": -108.3135817
     },
     {
       "id": 93910,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040045",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040045.JPG",
+      "lat": 39.36051167,
+      "lng": -108.3136033
     },
     {
       "id": 93911,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040046",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040046.JPG",
+      "lat": 39.36053333,
+      "lng": -108.3133267
     },
     {
       "id": 93912,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040047",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040047.JPG",
+      "lat": 39.36053333,
+      "lng": -108.3133267
     },
     {
       "id": 93913,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040048",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040048.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133233
     },
     {
       "id": 93914,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040049",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040049.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133233
     },
     {
       "id": 93915,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040050",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040050.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
     },
     {
       "id": 93916,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040051",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040051.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
     },
     {
       "id": 93917,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040052",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040052.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
     },
     {
       "id": 93918,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040053",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040053.JPG",
+      "lat": 39.36054167,
+      "lng": -108.3133383
     },
     {
       "id": 93919,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040054",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040054.JPG",
+      "lat": 39.360545,
+      "lng": -108.313345
     },
     {
       "id": 93920,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040055",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040055.JPG",
+      "lat": 39.360545,
+      "lng": -108.3133483
     },
     {
       "id": 93921,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040056",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040056.JPG",
+      "lat": 39.360545,
+      "lng": -108.3133483
     },
     {
       "id": 93922,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040057",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040057.JPG",
+      "lat": 39.360545,
+      "lng": -108.31335
     },
     {
       "id": 93923,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040058",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040058.JPG",
+      "lat": 39.360545,
+      "lng": -108.31335
     },
     {
       "id": 93924,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040059",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040059.JPG",
+      "lat": 39.36046833,
+      "lng": -108.31307
     },
     {
       "id": 93925,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040060",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040060.JPG",
+      "lat": 39.36046833,
+      "lng": -108.31307
     },
     {
       "id": 93926,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040061",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040061.JPG",
+      "lat": 39.36049333,
+      "lng": -108.313565
     },
     {
       "id": 93927,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040062",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040062.JPG",
+      "lat": 39.36049333,
+      "lng": -108.313565
     },
     {
       "id": 93928,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040063",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040063.JPG",
+      "lat": 39.36051167,
+      "lng": -108.3135283
     },
     {
       "id": 93929,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040064",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040064.JPG",
+      "lat": 39.36051167,
+      "lng": -108.3135283
     },
     {
       "id": 93930,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040065",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040065.JPG",
+      "lat": 39.36051333,
+      "lng": -108.3135283
     },
     {
       "id": 93931,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040066",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040066.JPG",
+      "lat": 39.36059167,
+      "lng": -108.3136267
     },
     {
       "id": 93932,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040067",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040067.JPG",
+      "lat": 39.360655,
+      "lng": -108.3136833
     },
     {
       "id": 93933,
-      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040068",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20180504_Sclerocactus-glaucus_Pond_20180504_ScGl2018_Pond_P5040068.JPG",
+      "lat": 39.36068833,
+      "lng": -108.3137067
     },
     {
       "id": 93934,
-      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290001",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290001.JPG",
+      "lat": 39.196625,
+      "lng": -108.12975
     },
     {
       "id": 93936,
-      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290003",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290003.JPG",
+      "lat": 39.19676167,
+      "lng": -108.129825
     },
     {
       "id": 93937,
-      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290004",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20190429_Sclerocactusglaucus_20190429_Sclercactusglaucus_AtwellGulch_P4290004.JPG",
+      "lat": 39.19677,
+      "lng": -108.12977
     },
     {
       "id": 93947,
-      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020023",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020023.JPG",
+      "lat": 39.34122,
+      "lng": -108.311725
     },
     {
       "id": 93949,
-      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020025",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020025.JPG",
+      "lat": 39.34446,
+      "lng": -108.31029
     },
     {
       "id": 93950,
-      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020026",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020026.JPG",
+      "lat": 39.344495,
+      "lng": -108.31027
     },
     {
       "id": 93951,
-      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020027",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_20190502)Sclerocactusglaucus_OilPad_P5020027.JPG",
+      "lat": 39.34439833,
+      "lng": -108.3103383
     },
     {
       "id": 93956,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020032",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020032.JPG",
+      "lat": 39.36054,
+      "lng": -108.3136683
     },
     {
       "id": 93957,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020033",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020033.JPG",
+      "lat": 39.36055833,
+      "lng": -108.3136833
     },
     {
       "id": 93958,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020034",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020034.JPG",
+      "lat": 39.36062333,
+      "lng": -108.3137117
     },
     {
       "id": 93959,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020035",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020035.JPG",
+      "lat": 39.36063167,
+      "lng": -108.313735
     },
     {
       "id": 93960,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020036",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_Pond_P5020036.JPG",
+      "lat": 39.36068667,
+      "lng": -108.3137467
     },
     {
       "id": 93963,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020015",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020015.JPG",
+      "lat": 39.30677667,
+      "lng": -108.2754567
     },
     {
       "id": 93964,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020016",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020016.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
     },
     {
       "id": 93965,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020017",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020017.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
     },
     {
       "id": 93966,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020018",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020018.JPG",
+      "lat": 39.30671833,
+      "lng": -108.275435
     },
     {
       "id": 93967,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020019",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020019.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
     },
     {
       "id": 93968,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020020",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020020.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
     },
     {
       "id": 93969,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020021",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020021.JPG",
+      "lat": 39.30669333,
+      "lng": -108.2754217
     },
     {
       "id": 93970,
-      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020022",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_20190502_Sclerocactusglaucus_PyramidRock_P5020022.JPG",
+      "lat": 39.30676,
+      "lng": -108.27545
     },
     {
       "id": 93971,
-      "name": "20190429_Sclerocactusglaucus_P4290001",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20190429_Sclerocactusglaucus_P4290001.JPG",
+      "lat": 39.196625,
+      "lng": -108.12975
     },
     {
       "id": 93973,
-      "name": "20190429_Sclerocactusglaucus_P4290003",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20190429_Sclerocactusglaucus_P4290003.JPG",
+      "lat": 39.19676167,
+      "lng": -108.129825
     },
     {
       "id": 93974,
-      "name": "20190429_Sclerocactusglaucus_P4290004",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
+      "name": "20190429_Sclerocactusglaucus_P4290004.JPG",
+      "lat": 39.19677,
+      "lng": -108.12977
     },
     {
       "id": 93985,
-      "name": "20190429_Sclerocactusglaucus_P5020015",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020015.JPG",
+      "lat": 39.30677667,
+      "lng": -108.2754567
     },
     {
       "id": 93986,
-      "name": "20190429_Sclerocactusglaucus_P5020016",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020016.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
     },
     {
       "id": 93987,
-      "name": "20190429_Sclerocactusglaucus_P5020017",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020017.JPG",
+      "lat": 39.306755,
+      "lng": -108.27548
     },
     {
       "id": 93988,
-      "name": "20190429_Sclerocactusglaucus_P5020018",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020018.JPG",
+      "lat": 39.30671833,
+      "lng": -108.275435
     },
     {
       "id": 93989,
-      "name": "20190429_Sclerocactusglaucus_P5020019",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020019.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
     },
     {
       "id": 93990,
-      "name": "20190429_Sclerocactusglaucus_P5020020",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020020.JPG",
+      "lat": 39.30669167,
+      "lng": -108.2754217
     },
     {
       "id": 93991,
-      "name": "20190429_Sclerocactusglaucus_P5020021",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020021.JPG",
+      "lat": 39.30669333,
+      "lng": -108.2754217
     },
     {
       "id": 93992,
-      "name": "20190429_Sclerocactusglaucus_P5020022",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
+      "name": "20190429_Sclerocactusglaucus_P5020022.JPG",
+      "lat": 39.30676,
+      "lng": -108.27545
     },
     {
       "id": 93993,
-      "name": "20190429_Sclerocactusglaucus_P5020023",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_P5020023.JPG",
+      "lat": 39.34122,
+      "lng": -108.311725
     },
     {
       "id": 93995,
-      "name": "20190429_Sclerocactusglaucus_P5020025",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_P5020025.JPG",
+      "lat": 39.34446,
+      "lng": -108.31029
     },
     {
       "id": 93996,
-      "name": "20190429_Sclerocactusglaucus_P5020026",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_P5020026.JPG",
+      "lat": 39.344495,
+      "lng": -108.31027
     },
     {
       "id": 93997,
-      "name": "20190429_Sclerocactusglaucus_P5020027",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "name": "20190429_Sclerocactusglaucus_P5020027.JPG",
+      "lat": 39.34439833,
+      "lng": -108.3103383
     },
     {
       "id": 94002,
-      "name": "20190429_Sclerocactusglaucus_P5020032",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_P5020032.JPG",
+      "lat": 39.36054,
+      "lng": -108.3136683
     },
     {
       "id": 94003,
-      "name": "20190429_Sclerocactusglaucus_P5020033",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_P5020033.JPG",
+      "lat": 39.36055833,
+      "lng": -108.3136833
     },
     {
       "id": 94004,
-      "name": "20190429_Sclerocactusglaucus_P5020034",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_P5020034.JPG",
+      "lat": 39.36062333,
+      "lng": -108.3137117
     },
     {
       "id": 94005,
-      "name": "20190429_Sclerocactusglaucus_P5020035",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_P5020035.JPG",
+      "lat": 39.36063167,
+      "lng": -108.313735
     },
     {
       "id": 94006,
-      "name": "20190429_Sclerocactusglaucus_P5020036",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20190429_Sclerocactusglaucus_P5020036.JPG",
+      "lat": 39.36068667,
+      "lng": -108.3137467
     },
     {
       "id": 94008,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_25",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_25.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
     },
     {
       "id": 94009,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_26",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_26.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
     },
     {
       "id": 94010,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_27",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_27.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
     },
     {
       "id": 94011,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_28",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_28.jpg",
+      "lat": 39.354213,
+      "lng": -108.329037
     },
     {
       "id": 94012,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_29",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_29.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
     },
     {
       "id": 94013,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_30",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_30.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
     },
     {
       "id": 94014,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_31",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_31.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
     },
     {
       "id": 94015,
-      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_32",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_20210421_Sclerocactus-glaucus_32.jpg",
+      "lat": 39.35402797,
+      "lng": -108.329137
     },
     {
       "id": 94016,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_33",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_33.jpg",
+      "lat": 38.66987797,
+      "lng": -108.328855
     },
     {
       "id": 94017,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_34",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_34.jpg",
+      "lat": 38.66987797,
+      "lng": -108.328855
     },
     {
       "id": 94018,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_35",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_35.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
     },
     {
       "id": 94019,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_36",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_36.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
     },
     {
       "id": 94020,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_37",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_37.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
     },
     {
       "id": 94021,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_38",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_38.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
     },
     {
       "id": 94022,
-      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_39",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94030,
-      "name": "20210421_Sclerocactus-glaucus_Picnic_20210422_Sclerocactus-glaucus_Picnic_P4210024",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94031,
-      "name": "20210421_Sclerocactus-glaucus_Picnic_20210422_Sclerocactus-glaucus_Picnic_P4210025",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94032,
-      "name": "20210421_Sclerocactus-glaucus_Picnic_20210422_Sclerocactus-glaucus_Picnic_P4210026",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94042,
-      "name": "20210421_Sclerocactus-glaucus_Pond_P4200012",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 94043,
-      "name": "20210421_Sclerocactus-glaucus_Pond_P4200013",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 94044,
-      "name": "20210421_Sclerocactus-glaucus_Pond_P4200014",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 94045,
-      "name": "20210421_Sclerocactus-glaucus_Pond_P4200015",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
+      "name": "20210421_Sclerocactus-glaucus_20210422_Sclerocactus-glaucus_39.jpg",
+      "lat": 38.670059,
+      "lng": -108.328907
     },
     {
       "id": 94047,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200001",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200001.JPG",
+      "lat": 39.353805,
+      "lng": -108.3282783
     },
     {
       "id": 94048,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200002",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200002.JPG",
+      "lat": 39.353805,
+      "lng": -108.3282783
     },
     {
       "id": 94049,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200003",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200003.JPG",
+      "lat": 39.353805,
+      "lng": -108.3282783
     },
     {
       "id": 94050,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200004",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200004.JPG",
+      "lat": 39.35386,
+      "lng": -108.3294633
     },
     {
       "id": 94051,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200005",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200005.JPG",
+      "lat": 39.35393,
+      "lng": -108.3291467
     },
     {
       "id": 94052,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200006",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200006.JPG",
+      "lat": 39.35406833,
+      "lng": -108.3294167
     },
     {
       "id": 94053,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200007",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200007.JPG",
+      "lat": 39.35407667,
+      "lng": -108.32912
     },
     {
       "id": 94054,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200008",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200008.JPG",
+      "lat": 39.35407667,
+      "lng": -108.3291217
     },
     {
       "id": 94055,
-      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200009",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 94062,
-      "name": "20210427_Sclerocactus-glaucus_Powerline_20210427_Sclerocactus-glaucus_Powerline_P4260042",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 94063,
-      "name": "20210427_Sclerocactus-glaucus_Powerline_20210427_Sclerocactus-glaucus_Powerline_P4260043",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 94082,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270056",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94083,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270057",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94084,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270058",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94085,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270059",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94086,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270060",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94088,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270062",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94089,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270063",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94090,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270064",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94091,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270065",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94092,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270066",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94093,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270067",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94094,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270068",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94095,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270069",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94097,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270071",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94098,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270072",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94099,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270073",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94100,
-      "name": "20210428_Sclerocactus-glaucus_AtwellGulch_P4270074",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 94123,
-      "name": "20210428_Sclerocactus-glaucus_FRAM_20210428_Sclerocactus-glaucus_FRAM_P4270097",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 94128,
-      "name": "20210429_Sclerocactus-glaucus_OilPad_P4290101",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 94129,
-      "name": "20210429_Sclerocactus-glaucus_OilPad_P4290102",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 94130,
-      "name": "20210429_Sclerocactus-glaucus_OilPad_P4290103",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 94131,
-      "name": "20210429_Sclerocactus-glaucus_OilPad_P4290104",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 94143,
-      "name": "20210610_Sclerocactus-glaucus_25",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94144,
-      "name": "20210610_Sclerocactus-glaucus_26",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94145,
-      "name": "20210610_Sclerocactus-glaucus_27",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94146,
-      "name": "20210610_Sclerocactus-glaucus_28",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94148,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100013",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94150,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100015",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94152,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100017",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94153,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100018",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94154,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100019",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94155,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100020",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94156,
-      "name": "20210610_Sclerocactus-glaucus_Picnic_P6100021",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 94157,
-      "name": "20210611_Sclerocactus-glaucus_29",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94158,
-      "name": "20210611_Sclerocactus-glaucus_31",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94159,
-      "name": "20210611_Sclerocactus-glaucus_32",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94160,
-      "name": "20210611_Sclerocactus-glaucus_33",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 94161,
-      "name": "20210611_Sclerocactus-glaucus_35",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
-    },
-    {
-      "id": 104806,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_01",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104807,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_02",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104808,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_03",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104812,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_07",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104813,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_08",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104814,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_09",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104815,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_10",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104816,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_11",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104817,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_12",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104818,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_13",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104819,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_14",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104820,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_15",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104825,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_20",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104826,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_21",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104827,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_22",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104828,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_23",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104829,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_24",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104830,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_25",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104831,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_26",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 104847,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_01",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104849,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_01",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104848,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_02",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104851,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_02",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104850,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_03",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104852,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_03",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104853,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_04",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104854,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_05",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104855,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_06",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104856,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_07",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104857,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_08",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104858,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_09",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104859,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_10",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104860,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_11",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104861,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_12",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104862,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_13",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104863,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_14",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104864,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_15",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104865,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_16",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104866,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_17",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104867,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_18",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104868,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_19",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104869,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_20",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104870,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_21",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104871,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_22",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104872,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_23",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104873,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_24",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104874,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_25",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104875,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_26",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104876,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_27",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104877,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_28",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104878,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_29",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104879,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_30",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104880,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_31",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104881,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_32",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104882,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_33",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104883,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_34",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104884,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_35",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104885,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_36",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104886,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_37",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104887,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_38",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104888,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_39",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104889,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_40",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104890,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_41",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104891,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_42",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104892,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_43",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104893,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_44",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104894,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_45",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104895,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_46",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104896,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_47",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104897,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_48",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104781,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_01",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104782,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_02",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104783,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_03",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104784,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_04",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104785,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_05",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104786,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_06",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104787,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_07",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104788,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_08",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104789,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_09",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104790,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_10",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104791,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_11",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104792,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_12",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104793,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_OilPad_13",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104839,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_01",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104840,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_02",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104841,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_03",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104842,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_04",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104843,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_05",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104844,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_06",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104845,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_07",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104846,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Picnic_08",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104759,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_01",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104760,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_02",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104761,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_03",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104762,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_04",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104763,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_05",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104764,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_06",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104765,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_07",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104766,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_08",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104767,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_09",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104768,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_10",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104769,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_11",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104770,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_12",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104771,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_13",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104772,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_14",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104773,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_15",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104774,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_16",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104775,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_17",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104776,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_18",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104777,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_19",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104778,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_20",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104779,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_21",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104780,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_Pond_22",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104832,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_01",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104833,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_02",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104834,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_03",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104835,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_04",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104836,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_05",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104837,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_06",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104838,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_07",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 104794,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_01",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104795,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_02",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104796,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_03",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104797,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_04",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104798,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_05",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104799,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_06",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104800,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_07",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104801,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_08",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104802,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_09",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104803,
-      "name": "20230518_Sclerocactus-glaucus_DemographicMonitoring_TJunction_10",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 105037,
-      "name": "20240429_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_001",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 105038,
-      "name": "20240429_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_002",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 105039,
-      "name": "20240429_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_003",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 105014,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_001",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105015,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_002",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105016,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_003",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105017,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_004",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105018,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_005",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105019,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_006",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105021,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_007",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105020,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_008",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105022,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_009",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105023,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_010",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105024,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_011",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105025,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_012",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105026,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_013",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105027,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_014",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105028,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_015",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105029,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_016",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105030,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_017",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105031,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_018",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105032,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_019",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105033,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_020",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105034,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_021",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105035,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_022",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 105036,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_OilPad_023",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 104957,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_026",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104959,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_027",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104960,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_028",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104961,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_029",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104962,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_030",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104963,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_031",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104965,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_033",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104966,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_034",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104967,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_035",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104968,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_036",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104969,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_037",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104970,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_038",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104972,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_040",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104973,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_041",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104975,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_042",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104974,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_043",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104976,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_044",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104977,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_045",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104978,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_046",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104983,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_052",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104984,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_053",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104985,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_054",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104986,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_055",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104987,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_056",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104988,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_057",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104989,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_058",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104990,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_059",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104991,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_060",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104992,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_061",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104993,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_062",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104994,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_063",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104995,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_064",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104996,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_065",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104997,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_066",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104998,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_067",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104999,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_068",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105000,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_069",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105002,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_070",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105001,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_071",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105003,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_072",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105004,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_073",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105005,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_074",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105006,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_075",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105007,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_076",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105008,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_077",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105009,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_078",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105010,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_079",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105011,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_080",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105012,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_081",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 105013,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_Pond_082",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 104956,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_T-Junction_024",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104958,
-      "name": "20240430_Sclerocactus-glaucus_DemographicMonitoring_T-Junction_025",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 104905,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_084",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104906,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_085",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104907,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_086",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104908,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_087",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104909,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_088",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104910,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_089",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104911,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_090",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104912,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalanteCanyon_091",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Escalante Canyon"
-    },
-    {
-      "id": 104914,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_093",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104915,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_094",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104916,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_095",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104917,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_096",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104918,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_097",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104919,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_098",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104920,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_099",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104921,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_100",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104922,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_101",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104923,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_102",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104924,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_103",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104925,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_104",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104926,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_105",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104927,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_106",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104928,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_107",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104929,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_108",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104930,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_109",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104931,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_110",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104932,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_111",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104933,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_112",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104934,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_113",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104935,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_114",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104936,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_115",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104937,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_116",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104938,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_117",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104940,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_119",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104941,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_120",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104942,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_121",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104943,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_122",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104944,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_123",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104945,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_124",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104946,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_125",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104947,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_126",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104948,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_127",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104949,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_128",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104950,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_129",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104951,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_130",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104952,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_131",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104954,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_133",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104955,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_EscalantePicnic_134",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 104898,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_Powerline_077",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 104899,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_Powerline_078",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 104901,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_Powerline_079",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 104900,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_Powerline_080",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 104902,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_Powerline_081",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 104903,
-      "name": "20240501_Sclerocactus-glaucus_DemographicMonitoring_Powerline_082",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Powerline"
-    },
-    {
-      "id": 105043,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_121",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105044,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_122",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105045,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_123",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105046,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_124",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105047,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_125",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105050,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_126",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105049,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_128",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105051,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_129",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105052,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_130",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105053,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_131",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105055,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_132",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105054,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_133",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105056,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_134",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105057,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_135",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105058,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_136",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105059,
-      "name": "20240502_Sclerocactus-glaucus_DemographicMonitoring_Fram_137",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 105040,
-      "name": "20240503_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_138",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 105041,
-      "name": "20240503_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_139",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 105042,
-      "name": "20240503_Sclerocactus-glaucus_DemographicMonitoring_PyramidRock_140",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 136478,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0671",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136479,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0672",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136480,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0675",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136481,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0676",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136482,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0677",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136483,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0678",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136484,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0679",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136485,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0680",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136486,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0681",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136487,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0682",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136488,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0683",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136489,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0684",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136490,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0685",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136491,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0686",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136492,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0687",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136493,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0688",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136494,
-      "name": "20250513_Sclerocactus-glaucus_DemographicMonitoring_AtwellGulch_IMG_0689",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Atwell Gulch"
-    },
-    {
-      "id": 136495,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0690",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136496,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0691",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136497,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0692",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136498,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0693",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136499,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0694",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136500,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0695",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136501,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0696",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136502,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0697",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136503,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0698",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136504,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0699",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136505,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0700",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136506,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0702",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136507,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0703",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136508,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0704",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136509,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0705",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136510,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0706",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136511,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0707",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136512,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0708",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136513,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0709",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136514,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0710",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136515,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0711",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136516,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0712",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136517,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0713",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136518,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0714",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136519,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0715",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136520,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0716",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136521,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0717",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136522,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0718",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136523,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0719",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136524,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0720",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136525,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0721",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136526,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0722",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136527,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0723",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136528,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0724",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136529,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0725",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136530,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0726",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136531,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0727",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136532,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0728",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136533,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0729",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136534,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0730",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136535,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_0731",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136536,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_E0725",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136537,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_E0726",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136538,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_E0728",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
-    },
-    {
-      "id": 136539,
-      "name": "20250514_Sclerocactus-glaucus_DemographicDistance_Picnic_IMG_E0731",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 136391,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0736",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136392,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0737",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136393,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0738",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136394,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0739",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136395,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0740",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136396,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0741",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136397,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0742",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136398,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0743",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136399,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0744",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136400,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0745",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136401,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0746",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136402,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0747",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136403,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0748",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136404,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0749",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136405,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0750",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136406,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0751",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136407,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0752",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136408,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0753",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136409,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0754",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136410,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0756",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136411,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0757",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136412,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0758",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136413,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0759",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136426,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0760",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136414,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0761",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136415,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0762",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136416,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0766",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136417,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0767",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136418,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0768",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136419,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0769",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136420,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_0770",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136421,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0738",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136422,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0744",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136423,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0745",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136424,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0752",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136425,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0753",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136427,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0754",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136428,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0766",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136429,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0767",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136430,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_Pond_IMG_E0768",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136431,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_PyramidRock_IMG_0732",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 136432,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_PyramidRock_IMG_0733",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 136433,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_PyramidRock_IMG_0734",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 136436,
-      "name": "20250515_Sclerocactus-dawsoniae_Demographic_PyramidRock_IMG_0735",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pyramid Rock"
-    },
-    {
-      "id": 136546,
-      "name": "20250515_Sclerocactus-glaucus_DemographicMonitoring_OilPad_20250515_164950",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 136547,
-      "name": "20250515_Sclerocactus-glaucus_DemographicMonitoring_OilPad_20250515_165531",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
-    },
-    {
-      "id": 136548,
-      "name": "20250515_Sclerocactus-glaucus_DemographicMonitoring_Pond_20250515_144712",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Pond"
-    },
-    {
-      "id": 136550,
-      "name": "20250515_Sclerocactus-glaucus_DemographicMonitoring_TJunction_20250515_175529",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "T-Junction"
-    },
-    {
-      "id": 136551,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Bridgeport_20250516_083729",
-      "lat": 38,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
-    },
-    {
-      "id": 136552,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_105417",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136553,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_112610",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136554,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_113811",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136555,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_115126",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136541,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_115837",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136542,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_115841(0)",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136543,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_115841",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136544,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_122410",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136545,
-      "name": "20250516_Sclerocactus-glaucus_DemographicMonitoring_Fram_20250516_122414",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Fram"
-    },
-    {
-      "id": 136447,
-      "name": "20251516_Sclerocactus-glaucus_Demographic_Bridgeport_IMG_E0762",
-      "lat": 39,
-      "lng": 108,
-      "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "name": "20210421_Sclerocactus-glaucus_T-Junction_20210421_Sclerocactus-glaucus_T-Junction_P4200009.JPG",
+      "lat": 39.35406167,
+      "lng": -108.328875
     }
   ]
 }
