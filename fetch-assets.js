@@ -41,30 +41,17 @@ function extractLatLng(asset) {
   const rawLat = meta["exif:GPSLatitude"] || meta["GPSLatitude"] || "";
   const rawLng = meta["exif:GPSLongitude"] || meta["GPSLongitude"] || "";
 
-  if (rawLat && rawLng) {
-    let lat = parseFloat(rawLat);
-    let lng = parseFloat(rawLng);
-    if (isNaN(lat) || isNaN(lng)) {
-      lat = parseDMS(String(rawLat));
-      lng = parseDMS(String(rawLng));
-    }
-    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
-      return { lat, lng };
-    }
-  }
+  if (!rawLat || !rawLng) return null;
 
-  const attrs = asset.attributes || {};
-  const attrLat = (attrs.decimalLatitude || [])[0] || "";
-  const attrLng = (attrs.decimalLongitude || [])[0] || "";
-  if (attrLat && attrLng) {
-    const lat = parseFloat(attrLat);
-    const lng = parseFloat(attrLng);
-    if (!isNaN(lat) && !isNaN(lng) && Math.abs(lat) <= 90 && Math.abs(lng) <= 180) {
-      return { lat, lng };
-    }
+  let lat = parseFloat(rawLat);
+  let lng = parseFloat(rawLng);
+  if (isNaN(lat) || isNaN(lng)) {
+    lat = parseDMS(String(rawLat));
+    lng = parseDMS(String(rawLng));
   }
-
-  return null;
+  if (lat == null || lng == null || isNaN(lat) || isNaN(lng)) return null;
+  if (Math.abs(lat) > 90 || Math.abs(lng) > 180) return null;
+  return { lat, lng };
 }
 
 (async () => {
@@ -92,9 +79,7 @@ function extractLatLng(asset) {
 
   if (allAssets.length > 0) {
     console.log("Sample asset structure:", JSON.stringify(allAssets[0], null, 2));
-    const geoSample = allAssets.find(a => a.metadata && (a.metadata["exif:GPSLatitude"] || a.metadata["GPSLatitude"]));
-    if (geoSample) console.log("Geo sample metadata:", JSON.stringify(geoSample.metadata, null, 2));
-    else console.log("No assets with GPS metadata found in sample.");
+    console.log("Sample metadata:", JSON.stringify(allAssets[0].metadata, null, 2));
   }
 
   const geoAssets = allAssets
