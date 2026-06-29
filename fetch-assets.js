@@ -92,7 +92,9 @@ function extractLatLng(asset) {
 
   if (allAssets.length > 0) {
     console.log("Sample asset structure:", JSON.stringify(allAssets[0], null, 2));
-    console.log("Sample metadata:", JSON.stringify(allAssets[0].metadata, null, 2));
+    const geoSample = allAssets.find(a => a.metadata && (a.metadata["exif:GPSLatitude"] || a.metadata["GPSLatitude"]));
+    if (geoSample) console.log("Geo sample metadata:", JSON.stringify(geoSample.metadata, null, 2));
+    else console.log("No assets with GPS metadata found in sample.");
   }
 
   const geoAssets = allAssets
