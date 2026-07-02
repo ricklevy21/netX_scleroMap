@@ -123,3 +123,5 @@ function extractLatLng(asset) {
 
   console.log(`Wrote ${geoAssets.length} geotagged assets to site/assets.json`);
 })();
+
+//Adding a comment to commit
