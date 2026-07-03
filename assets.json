@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T16:53:47.970Z",
+  "updated_at": "2026-07-03T08:54:39.083Z",
   "assets": [
     {
       "id": 93778,
@@ -1839,7 +1839,7 @@
       "lat": 39.3541967,
       "lng": -108.3288217,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "locationID": "T-Junction"
     },
     {
       "id": 94129,
@@ -1847,7 +1847,7 @@
       "lat": 39.3542383,
       "lng": -108.3289,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "locationID": "T-Junction"
     },
     {
       "id": 94130,
@@ -1855,7 +1855,7 @@
       "lat": 39.3542633,
       "lng": -108.3288467,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "locationID": "T-Junction"
     },
     {
       "id": 94131,
@@ -1863,7 +1863,7 @@
       "lat": 39.3542633,
       "lng": -108.3288467,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Oil Pad"
+      "locationID": "T-Junction"
     },
     {
       "id": 94143,
@@ -1871,7 +1871,7 @@
       "lat": 38.670175,
       "lng": -108.3283333,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 94144,
@@ -1879,7 +1879,7 @@
       "lat": 38.6702306,
       "lng": -108.3279611,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 94145,
@@ -1887,7 +1887,7 @@
       "lat": 38.6702306,
       "lng": -108.3279611,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 94146,
@@ -1895,7 +1895,7 @@
       "lat": 38.67015,
       "lng": -108.3281722,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 94148,
@@ -1959,7 +1959,7 @@
       "lat": 39.3538972,
       "lng": -108.3290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "T-Junction"
     },
     {
       "id": 94158,
@@ -1967,7 +1967,7 @@
       "lat": 39.3538972,
       "lng": -108.3290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "T-Junction"
     },
     {
       "id": 94159,
@@ -1975,7 +1975,7 @@
       "lat": 39.3538972,
       "lng": -108.3290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "T-Junction"
     },
     {
       "id": 94160,
@@ -1983,7 +1983,7 @@
       "lat": 39.3538972,
       "lng": -108.3290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "T-Junction"
     },
     {
       "id": 94161,
@@ -1991,7 +1991,7 @@
       "lat": 39.3538972,
       "lng": -108.3290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "T-Junction"
     },
     {
       "id": 104806,
@@ -4383,7 +4383,7 @@
       "lat": 39.1969278,
       "lng": -108.1297444,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Atwell Gulch"
     },
     {
       "id": 136496,
@@ -4391,7 +4391,7 @@
       "lat": 39.1969278,
       "lng": -108.1297444,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Atwell Gulch"
     },
     {
       "id": 136497,
@@ -4399,7 +4399,7 @@
       "lat": 39.1969278,
       "lng": -108.1297444,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Atwell Gulch"
     },
     {
       "id": 136498,
@@ -4407,7 +4407,7 @@
       "lat": 39.1969278,
       "lng": -108.1297444,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Atwell Gulch"
     },
     {
       "id": 136499,
@@ -4599,7 +4599,7 @@
       "lat": 39.1963694,
       "lng": -108.1290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Atwell Gulch"
     },
     {
       "id": 136523,
@@ -4607,7 +4607,7 @@
       "lat": 39.1963694,
       "lng": -108.1290194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Atwell Gulch"
     },
     {
       "id": 136524,
@@ -4615,7 +4615,7 @@
       "lat": 39.3066833,
       "lng": -108.2753444,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136525,
@@ -4623,7 +4623,7 @@
       "lat": 39.3066861,
       "lng": -108.2753833,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136526,
@@ -4631,7 +4631,7 @@
       "lat": 39.3066778,
       "lng": -108.2754056,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136527,
@@ -4639,7 +4639,7 @@
       "lat": 39.306675,
       "lng": -108.2753972,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136528,
@@ -4647,7 +4647,7 @@
       "lat": 39.3066667,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136529,
@@ -4655,7 +4655,7 @@
       "lat": 39.3066972,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136530,
@@ -4663,7 +4663,7 @@
       "lat": 39.3066861,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136531,
@@ -4671,7 +4671,7 @@
       "lat": 39.3066889,
       "lng": -108.2754278,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136532,
@@ -4679,7 +4679,7 @@
       "lat": 39.3066889,
       "lng": -108.2754278,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136533,
@@ -4687,7 +4687,7 @@
       "lat": 39.3067139,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136534,
@@ -4695,7 +4695,7 @@
       "lat": 39.3067167,
       "lng": -108.2754139,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136535,
@@ -4703,7 +4703,7 @@
       "lat": 39.3067028,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136536,
@@ -4711,7 +4711,7 @@
       "lat": 39.3066972,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136537,
@@ -4719,7 +4719,7 @@
       "lat": 39.3066861,
       "lng": -108.2754222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136538,
@@ -4727,7 +4727,7 @@
       "lat": 39.3066889,
       "lng": -108.2754278,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Picnic"
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 136539,
@@ -5207,7 +5207,7 @@
       "lat": 39.3607,
       "lng": -108.3137,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": "Bridgeport"
+      "locationID": "Pond"
     },
     {
       "id": 294105,
@@ -5231,7 +5231,7 @@
       "lat": 38.8488917,
       "lng": -108.3718944,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Bridgeport"
     },
     {
       "id": 294108,
@@ -5239,7 +5239,7 @@
       "lat": 38.8488917,
       "lng": -108.3718944,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Bridgeport"
     },
     {
       "id": 294109,
@@ -5247,7 +5247,7 @@
       "lat": 39.0620083,
       "lng": -108.3776028,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294110,
@@ -5255,7 +5255,7 @@
       "lat": 39.0619806,
       "lng": -108.3776028,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294111,
@@ -5263,7 +5263,7 @@
       "lat": 39.0620278,
       "lng": -108.3776472,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294112,
@@ -5271,7 +5271,7 @@
       "lat": 39.0620278,
       "lng": -108.3776472,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294113,
@@ -5279,7 +5279,7 @@
       "lat": 39.0620222,
       "lng": -108.3776306,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294114,
@@ -5287,7 +5287,7 @@
       "lat": 39.0614361,
       "lng": -108.3775111,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294115,
@@ -5295,7 +5295,7 @@
       "lat": 39.0614306,
       "lng": -108.3775194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294116,
@@ -5303,7 +5303,7 @@
       "lat": 39.0614278,
       "lng": -108.377525,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294117,
@@ -5319,7 +5319,7 @@
       "lat": 39.0617417,
       "lng": -108.3778917,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294119,
@@ -5359,7 +5359,7 @@
       "lat": 38.6700778,
       "lng": -108.3286889,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294124,
@@ -5367,7 +5367,7 @@
       "lat": 38.6701056,
       "lng": -108.3287194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294125,
@@ -5375,7 +5375,7 @@
       "lat": 38.6700333,
       "lng": -108.3283861,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294126,
@@ -5383,7 +5383,7 @@
       "lat": 38.670375,
       "lng": -108.32875,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294127,
@@ -5399,7 +5399,7 @@
       "lat": 38.6702417,
       "lng": -108.3285694,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294129,
@@ -5407,7 +5407,7 @@
       "lat": 38.6702889,
       "lng": -108.3287361,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294130,
@@ -5415,7 +5415,7 @@
       "lat": 38.6702944,
       "lng": -108.3287722,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294131,
@@ -5423,7 +5423,7 @@
       "lat": 38.6702944,
       "lng": -108.3287806,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294132,
@@ -5431,7 +5431,7 @@
       "lat": 38.6702944,
       "lng": -108.3287889,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Picnic"
     },
     {
       "id": 294133,
@@ -5439,7 +5439,7 @@
       "lat": 39.3067722,
       "lng": -108.2755139,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294134,
@@ -5447,7 +5447,7 @@
       "lat": 39.3067722,
       "lng": -108.2755056,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294135,
@@ -5455,7 +5455,7 @@
       "lat": 39.3068389,
       "lng": -108.2755889,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294136,
@@ -5463,7 +5463,7 @@
       "lat": 39.3068361,
       "lng": -108.2755806,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294137,
@@ -5471,7 +5471,7 @@
       "lat": 39.3068361,
       "lng": -108.2755806,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294138,
@@ -5487,7 +5487,7 @@
       "lat": 39.3068361,
       "lng": -108.2755806,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294140,
@@ -5495,7 +5495,7 @@
       "lat": 39.3074972,
       "lng": -108.27465,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294141,
@@ -5503,7 +5503,7 @@
       "lat": 39.3076556,
       "lng": -108.27475,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294142,
@@ -5511,7 +5511,7 @@
       "lat": 39.3076667,
       "lng": -108.2747556,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294143,
@@ -5519,7 +5519,7 @@
       "lat": 39.3067306,
       "lng": -108.2762528,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294144,
@@ -5527,7 +5527,7 @@
       "lat": 39.3067194,
       "lng": -108.2762528,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pyramid Rock"
     },
     {
       "id": 294145,
@@ -5535,7 +5535,7 @@
       "lat": 39.3606528,
       "lng": -108.3137278,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294146,
@@ -5543,7 +5543,7 @@
       "lat": 39.3606472,
       "lng": -108.3137972,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294147,
@@ -5551,7 +5551,7 @@
       "lat": 39.3606472,
       "lng": -108.3137972,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294148,
@@ -5559,7 +5559,7 @@
       "lat": 39.3606472,
       "lng": -108.3137972,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294149,
@@ -5575,7 +5575,7 @@
       "lat": 39.3606222,
       "lng": -108.3137722,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294151,
@@ -5583,7 +5583,7 @@
       "lat": 39.3606278,
       "lng": -108.3137889,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294152,
@@ -5591,7 +5591,7 @@
       "lat": 39.3606306,
       "lng": -108.3137889,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Pond"
     },
     {
       "id": 294153,
@@ -5599,7 +5599,7 @@
       "lat": 39.3443278,
       "lng": -108.3102639,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294154,
@@ -5607,7 +5607,7 @@
       "lat": 39.3443333,
       "lng": -108.3102556,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294155,
@@ -5615,7 +5615,7 @@
       "lat": 39.3443361,
       "lng": -108.3102556,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294156,
@@ -5623,7 +5623,7 @@
       "lat": 39.3443222,
       "lng": -108.3102639,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294157,
@@ -5631,7 +5631,7 @@
       "lat": 39.3443139,
       "lng": -108.3102111,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294158,
@@ -5639,7 +5639,7 @@
       "lat": 39.3443278,
       "lng": -108.3102194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294159,
@@ -5647,7 +5647,7 @@
       "lat": 39.3443222,
       "lng": -108.3102194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294160,
@@ -5663,7 +5663,7 @@
       "lat": 39.3443278,
       "lng": -108.3102194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294162,
@@ -5671,7 +5671,7 @@
       "lat": 39.3443278,
       "lng": -108.3102194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294163,
@@ -5679,7 +5679,7 @@
       "lat": 39.3443417,
       "lng": -108.3102333,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294164,
@@ -5687,7 +5687,7 @@
       "lat": 39.3443278,
       "lng": -108.3102333,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294165,
@@ -5695,7 +5695,7 @@
       "lat": 39.3443278,
       "lng": -108.3102333,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Oil Pad"
     },
     {
       "id": 294166,
@@ -5703,7 +5703,7 @@
       "lat": 39.0623139,
       "lng": -108.3774944,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294167,
@@ -5711,7 +5711,7 @@
       "lat": 39.0620083,
       "lng": -108.3776028,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294168,
@@ -5719,7 +5719,7 @@
       "lat": 39.0619806,
       "lng": -108.3776028,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294169,
@@ -5727,7 +5727,7 @@
       "lat": 39.0619917,
       "lng": -108.3776167,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294170,
@@ -5735,7 +5735,7 @@
       "lat": 39.0620167,
       "lng": -108.3776389,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294171,
@@ -5751,7 +5751,7 @@
       "lat": 39.0620278,
       "lng": -108.3776472,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294173,
@@ -5759,7 +5759,7 @@
       "lat": 39.0620278,
       "lng": -108.3776472,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294174,
@@ -5767,7 +5767,7 @@
       "lat": 39.0620222,
       "lng": -108.3776306,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294175,
@@ -5775,7 +5775,7 @@
       "lat": 39.0614361,
       "lng": -108.3775111,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294176,
@@ -5783,7 +5783,7 @@
       "lat": 39.0614306,
       "lng": -108.3775194,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294177,
@@ -5791,7 +5791,7 @@
       "lat": 39.0614278,
       "lng": -108.377525,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294178,
@@ -5799,7 +5799,7 @@
       "lat": 39.06145,
       "lng": -108.3775333,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294179,
@@ -5807,7 +5807,7 @@
       "lat": 39.0614556,
       "lng": -108.3775389,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294180,
@@ -5815,7 +5815,7 @@
       "lat": 39.0614556,
       "lng": -108.3775389,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294181,
@@ -5823,7 +5823,7 @@
       "lat": 39.0617778,
       "lng": -108.3777167,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294182,
@@ -5839,7 +5839,7 @@
       "lat": 39.0618028,
       "lng": -108.3777222,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294184,
@@ -5847,7 +5847,7 @@
       "lat": 39.0618639,
       "lng": -108.3776944,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294185,
@@ -5855,7 +5855,7 @@
       "lat": 39.0618583,
       "lng": -108.3776944,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294186,
@@ -5863,7 +5863,7 @@
       "lat": 39.0620222,
       "lng": -108.3776778,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294187,
@@ -5871,7 +5871,7 @@
       "lat": 39.0620222,
       "lng": -108.3776778,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294188,
@@ -5879,7 +5879,7 @@
       "lat": 39.0620306,
       "lng": -108.3776861,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294189,
@@ -5887,7 +5887,7 @@
       "lat": 39.0620222,
       "lng": -108.3776556,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294190,
@@ -5895,7 +5895,7 @@
       "lat": 39.0620222,
       "lng": -108.3776694,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294191,
@@ -5903,7 +5903,7 @@
       "lat": 39.0622778,
       "lng": -108.3776167,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294192,
@@ -5911,7 +5911,7 @@
       "lat": 39.062275,
       "lng": -108.377625,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294193,
@@ -5927,7 +5927,7 @@
       "lat": 39.0624778,
       "lng": -108.377525,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294195,
@@ -5935,7 +5935,7 @@
       "lat": 39.0624722,
       "lng": -108.3775389,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294196,
@@ -5943,7 +5943,7 @@
       "lat": 39.061725,
       "lng": -108.3779306,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294197,
@@ -5951,7 +5951,7 @@
       "lat": 39.0617361,
       "lng": -108.3778917,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294198,
@@ -5959,7 +5959,7 @@
       "lat": 39.0617333,
       "lng": -108.3778833,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294199,
@@ -5967,7 +5967,7 @@
       "lat": 39.0617417,
       "lng": -108.3778917,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294200,
@@ -5975,7 +5975,7 @@
       "lat": 39.0617417,
       "lng": -108.3778917,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294201,
@@ -5983,7 +5983,7 @@
       "lat": 39.0617222,
       "lng": -108.3779139,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294202,
@@ -5991,7 +5991,7 @@
       "lat": 39.0617222,
       "lng": -108.3779139,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294203,
@@ -5999,7 +5999,7 @@
       "lat": 39.0683056,
       "lng": -108.3566278,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294204,
@@ -6015,7 +6015,7 @@
       "lat": 39.0683056,
       "lng": -108.3566361,
       "project": "Sclerocactus glaucus Demographic Monitoring",
-      "locationID": ""
+      "locationID": "Fram"
     },
     {
       "id": 294206,
