@@ -255,7 +255,7 @@ function renderMarkers(assets) {
   visibleMarkers = [];
   assets.forEach(asset => {
     const marker = L.marker([asset.lat, asset.lng], { icon: makeIcon() });
-    marker.bindTooltip(asset.name, { direction: "top" });
+    marker.bindTooltip(`${asset.locationID} — ${asset.project}`, { direction: "top" });
     marker.on("click", () => openPanel(asset));
     marker.addTo(map);
     visibleMarkers.push({ marker, asset });
